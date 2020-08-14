@@ -1,0 +1,723 @@
+<!doctype html>
+<html ng-app="example">
+<head>
+<title>MAMI</title>
+    <meta http-equiv="content-type" name="text/html; charset=UTF-8" >
+    <meta name="description" content="">
+	<meta name="keywords" content="">
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1">
+	<link rel="shortcut icon" href="" type="image/x-icon" />
+    <link href="/styles.css" rel="stylesheet" type="text/css">
+    <link href="/lib/jquery/jquery-ui-1.12.1/jquery-ui.css" rel="stylesheet" type="text/css">
+
+	<link href="/lib/jquery/jquery.splitter.css" rel="stylesheet" type="text/css">
+	<link href="/lib/jquery/jquery.dataTables.min.css" rel="stylesheet" type="text/css">
+	<!--<link href="https://cdn.datatables.net/1.10.13/css/jquery.dataTables.min.css" rel="stylesheet" type="text/css">-->
+
+    <link href="/lib/psbar/css/perfect-scrollbar.css" rel="stylesheet" type="text/css">
+    <link href="/lib/psbar/css/perfect-scrollbar.min.css" rel="stylesheet" type="text/css">
+	<link href="/lib/jstree/dist/themes/default/style.min.css" rel="stylesheet"/>
+	<link href="lib/barchart/TableBarChart.css" rel="stylesheet" />
+
+	<!--<link rel="stylesheet" type="text/css" media="screen" href="/lib/jquery/LineChart.css">-->
+
+	
+	<script src="/lib/jquery/jquery-1.12.4.js"></script>
+	<!--<script src="https://code.jquery.com/jquery-1.10.2.js"></script>-->
+	<script src="/lib/plotly/plotly-latest.min.js"></script>
+	
+	
+	<script src="/lib/jquery/jquery-ui-1.12.1/jquery-ui.js"></script>
+	
+	<script src="/lib/barchart/TableBarChart.js"></script>
+
+	<script src="/lib/Highcharts/code/highcharts.js"></script>
+	<script src="/lib/Highcharts/code/exporting.js"></script>
+	
+	<script src="/lib/jquery/angular.js"></script>
+	<script src="/lib/jquery/d3.min.js"></script>
+	<script src="/lib/jquery/LineChart.min.js"></script>
+
+	<script src="/lib/jquery/jquery.splitter-0.14.0.js"></script>
+	<script src="/lib/psbar/js/perfect-scrollbar.jquery.js"></script>
+    <script src="/lib/psbar/js/perfect-scrollbar.jquery.min.js"></script>
+    <script src="/lib/psbar/js/perfect-scrollbar.js"></script>
+    <script src="/lib/psbar/js/perfect-scrollbar.min.js"></script>
+    <script src="/lib/jstree/dist/jstree.min.js"></script>
+    <script src="/lib/jquery/jquery.dataTables.min.js"></script>
+    <script src="/lib/jquery/jquery.peity.js"></script>
+    <style>
+/*        .korpus > div, .korpus > input { display: none; }
+
+.korpus label { padding: 5px; border: 1px solid #aaa; line-height: 28px; cursor: pointer; position: relative; bottom: 1px; }
+.korpus input[type="radio"]:checked + label { border-bottom: 2px solid #fff; }
+
+.korpus > input:nth-of-type(1):checked ~ div:nth-of-type(1),
+.korpus > input:nth-of-type(2):checked ~ div:nth-of-type(2),
+.korpus > input:nth-of-type(3):checked ~ div:nth-of-type(3) { display: block; padding: 5px; border: 1px solid #aaa; }*/
+
+/*input[type="checkbox"]{
+    content: "";
+    display: inline-block;
+    height: 18px;
+    width: 18px;
+    background-color: #2D2D30;
+    border: 1px solid #4A4A52;
+    margin: 0 5px 0 0;
+}*/
+.opros_time ul li{font-family: Verdana;font-size: 12px;margin-top: 22px;}
+.reading_option ul li{font-family: Verdana;font-size: 12px;}
+table.reading_day{border-spacing: 7px;}
+table.reading_day tr td{text-align: left;text-align-last: left;padding-right: 3px;}
+
+table.otchet tr td{border: 1px solid #242424;padding: 2px 10px;}
+table.otchet tr td:hover{background-color:#007ACC;}
+table.data tr td{border: 1px solid #242424;padding: 2px 10px;}
+table.data tr td:hover{background-color:#007ACC;}
+table.data tr td:nth-child(2){text-align: left;}
+
+
+
+
+
+
+    </style>
+
+    <script type="text/javascript" src="/mainjs.js"></script>
+</head>
+<body>
+	<div id="container">
+		
+                    <!--Andrews code START-->
+                                        <div id="cdu_settings" class="ui-widget-content ui-draggable ui-draggable-handle" style="display: block;position: absolute; width: 665px; height: 415px; left: 28%; top: 15%; background: url(&quot;/files/background2.png&quot;) repeat; border: 2px solid rgb(102, 102, 102); opacity: 0.98">
+                                            <div id="cdu_settings_pw_drag" style="width: 100%; height: 19px; border-bottom: solid 2px #666666; ">
+                                                    <p style="color: #fff; font-size: 11px; margin-top: 3px;text-align: center;">Управление концентратором: 6070-00031</p>
+                                                    <img id="cdu_settings_close" src="/files/closewnd.png" style="width: 15px; height: 15px; float: right; margin-top: -12px; margin-right: 3px; cursor: pointer">
+                                            </div>
+                                            <div style="width: 100%;">
+                                                <div class="korpus">
+                                                    <input type="radio" name="odin" checked="checked" id="vkl1"/>
+                                                    <label for="vkl1">Загрузить</label>
+                                                    <input type="radio" name="odin" id="vkl2"/>
+                                                    <label for="vkl2">Записать</label>
+                                                    <input type="radio" name="odin" id="vkl3"/>
+                                                    <label for="vkl3">Порт</label>
+                                                    <input type="radio" name="odin" id="vkl4"/>
+                                                    <label for="vkl4">Настройка времени</label>
+                                                    <input type="radio" name="odin" id="vkl5"/>
+                                                    <label for="vkl5">Опрос</label>
+                                                    <input type="radio" name="odin" id="vkl6"/>
+                                                    <label for="vkl6">Отчет</label>
+                                                    <input type="radio" name="odin" id="vkl7"/>
+                                                    <label for="vkl7">Данные</label>
+													<!--Загрузить BEGIN-->
+                                                    <div id="cdu_settings_upload" style="border:none;">
+														<div class="sn" style="border:none;width: 645px;height:30px;margin: 15px auto 0px;">
+															<p class="det_dcu_p" style="float: left;margin-top: 5px;">Серийный номер</p>
+															<span style="float: left;margin-left: 16px;">
+																<input class="det_dcu_text" type="text" value="0" style="width: 40px">
+																<input class="det_dcu_text" type="text" value="50" style="width: 40px; margin-left: 6px;">
+															</span>
+															<p class="det_dcu_p" style="float: left;margin-top: 5px;margin-left: 29px;">Последовательный порт</p>
+															<span style="float: left;margin-left: 16px;">
+																<select class="det_dcu_select" style="width: 40px">
+																	<option>31</option>
+																	<option>21</option>
+																	<option>20</option>
+																	<option>15</option>
+																	<option>16</option>
+																	<option>12</option>
+																</select>
+																<button class="det_dcu_button" style="width: 120px;height:25px; margin-left: 6px;">Очищение порта</button>																
+															</span>
+														</div>
+														<div style="border:none;width:645px;height:250px;margin: 0px auto;"><textarea style="width:100%;height:100%;background-color: #3F3F46;border: 1px solid #59595B;"></textarea></div>
+														<div style="border:none;margin-top: 20px;margin-left: 423px;">
+															<button class="det_dcu_button" style="width: 60px;height:30px;">Опрос</button>
+															<button class="det_dcu_button" style="width: 90px;height:30px;">Выгрузить</button>
+															<button class="det_dcu_button" style="width: 75px;height:30px;">Закрыть</button>
+														</div>
+                                                    </div>
+													<!--Загрузить END-->
+													<!--Записать BEGIN-->
+                                                    <div style="border: none;" id="cdu_settings_write">
+                                                        <div class="sn" style="border:none;width: 645px;height:30px;margin: 15px auto 0px;">                                                           
+                                                            <span style="float: left; margin-top: 4px; margin-left: 10px;">
+                                                                <input type="checkbox">
+                                                            </span>
+                                                            <p class="det_dcu_p" style="float: left;margin-top: 5px; margin-left: 10px;">Выбрать все</p>
+                                                        </div>
+														<div style="border:none;width:645px;height:250px;margin: 0px auto;"><textarea style="width:100%;height:100%;background-color: #3F3F46;border: 1px solid #59595B;"></textarea></div>
+														<div style="border:none;margin-top: 20px;margin-left: 334px;width: 100%">
+															<button class="det_dcu_button" style="width: 60px;height:30px;">Опрос</button>
+                                                            <button class="det_dcu_button" style="width: 90px;height:30px;">Записать</button>
+                                                            <button class="det_dcu_button" style="width: 90px;height:30px;">Выгрузить</button>
+                                                            <button class="det_dcu_button" style="width: 75px;height:30px;">Закрыть</button>
+														</div>
+                                                    </div>
+													<!--Записать END-->
+													<!--Порт BEGIN-->
+                                                    <div style="border: none;" id="cdu_settings_port">
+                                                        <div class="port">
+                                                            <div class="sn" style="border:none;width: 645px;height:34px;">                                                           
+																<span style="float: left;margin-top: 10px;margin-left: 10px;">
+																	<p class="det_dcu_p_set" style="margin:0;">Параметры связи коммуникационного порта</p>
+																</span>
+															</div>
+															<div style="border:none;width:645px;height:250px;margin: 0px auto;">
+																<div style="border:1px solid #666;width: 62%;float: left;height: 100%;">
+																	<ul style="list-style: none;">
+																		<li><p class="det_dcu_p_set" style="">Время задержки передачи данных RTS</p></li>
+																		<li><p class="det_dcu_p_set" style="">Допустимое время задержки при начальной передаче</p></li>
+																		<li><p class="det_dcu_p_set" style="">Ожидающий таймаут ответа от станции</p></li>
+																		<li><p class="det_dcu_p_set" style="">Число повторных передач</p></li>
+																		<li><p class="det_dcu_p_set" style="">Цикл пульса</p></li>
+																		<li style="padding-left:20px;"><input type="checkbox"><p class="det_dcu_p_set" style="margin-top: -17px;">Автоматический отчет первого класса данных</p></li>
+																		<li style="padding-left:20px;"><input type="checkbox"><p class="det_dcu_p_set" style="margin-top: -17px;">Автоматический отчет второго класса данных</p></li>
+																		<li style="padding-left:20px;"><input type="checkbox"><p class="det_dcu_p_set" style="margin-top: -17px;">Автоматический отчет третьего класса данных</p></li>
+																	</ul>
+																</div>
+																<div style="border:1px solid #666;width: 36%;height: 100%;float: right;">
+																	<ul style="margin-left: 10px; list-style: none;">
+																		<li><p class="det_dcu_p_set_right" style=""><input class="det_dcu_text_set" type="text" value="0,00" style="width: 40px;margin-top: 8px;margin-right: 8px;">20(мс)</p></li>
+																		<li><p class="det_dcu_p_set_right" style=""><input class="det_dcu_text_set" type="text" value="0,00" style="width: 40px;margin-right: 8px;">Менуд</p></li>
+																		<li><p class="det_dcu_p_set_right" style=""><input class="det_dcu_text_set" type="text" value="0,00" style="width: 40px;margin-right: 8px;">Сикунт</p></li>
+																		<li><p class="det_dcu_p_set_right" style=""><input class="det_dcu_text_set" type="text" value="0,00" style="width: 40px;margin-right: 8px;">Кол-во рас</p></li>
+																		<li><p class="det_dcu_p_set_right" style=""><input class="det_dcu_text_set" type="text" value="0,00" style="width: 40px;margin-right: 8px;">Менуд</p></li>
+																	</ul>
+																</div>
+															</div>															
+															<div style="border:none;margin-top: 20px;margin-left: 423px;">
+																<button class="det_dcu_button" style="width: 60px;height:30px;">Опрос</button>
+																<button class="det_dcu_button" style="width: 90px;height:30px;">Выгрузить</button>
+																<button class="det_dcu_button" style="width: 75px;height:30px;">Закрыть</button>
+															</div> 
+                                                        </div>
+                                                    </div>
+													<!--Порт END-->
+													<!--Настройка времени BEGIN-->
+                                                    <div style="border: none;" id="cdu_settings_time">
+                                                        <div class="sn" style="border:none;width: 645px;height:34px;">                                                           
+															<span style="float: left;margin-top: 20px;margin-left: 20px;">
+																<p class="det_dcu_p_set" style="margin:0;">Настройка даты и времени концентратора</p>
+															</span>
+														</div>
+														<div style="border:none;width:645px;height:250px;margin: 0px auto;">
+															<div style="width: 45%;height: 30%;margin-top: 30px;float: right;">
+																<ul style="margin-left: 10px; list-style: none; margin-top:5px;">
+                                                                                                                                    <li><img src="clock.png" /></li>
+																</ul>
+															</div>
+															<div style="width: 21%;height: 30%;margin-top: 30px;float: right;">
+																<ul style="margin-left: 10px; list-style: none;">
+																	<li><p class="det_dcu_p_set_right" style=""><input class="det_dcu_text_set" type="text" value="15-05-2017" style="width: 105px;margin-top: 8px;margin-right: 8px;"></p></li>
+																	<li><p class="det_dcu_p_set_right" style=""><input class="det_dcu_text_set" type="text" value="02:12:00" style="width: 105px;margin-right: 8px;"></p></li>
+																</ul>
+															</div>
+															<div style="width: 33%;float: left;height: 30%;margin-top: 30px;">
+																<ul style="list-style: none; margin-left: 61px;">
+																	<li><p class="det_dcu_p_set" style="">Текущая дата</p></li>
+																	<li><p class="det_dcu_p_set" style="">Настройка времени</p></li>
+																</ul>
+															</div>
+														</div>
+														<div style="border:none;width:645px;margin: -39px auto;">
+															<span style="float: left; margin-top: 4px; margin-left: 83px;">
+                                                                <input type="checkbox">
+                                                            </span>
+                                                            <p class="det_dcu_p" style="float: left;margin-top: 6px; margin-left: 10px;">Синхронизация времени и даты с компьютером</p>
+														</div>														
+														<div style="border:none;margin-top: 53px;margin-left: 423px;">
+															<button class="det_dcu_button" style="width: 75px;height:30px;">Запись</button>
+															<button class="det_dcu_button" style="width: 75px;height:30px;">Закрыть</button>
+														</div>                                                        
+                                                    </div>
+													<!--Настройка времени END-->
+													<!--Опрос BEGIN-->
+                                                    <div style="border: none;">
+                                                        <div style="width: 655px; height: 366px;">
+                                                            <div style="width: 100%; height: 10%;margin-top: 4px;">
+                                                                <p class="det_dcu_p" style="margin-top: 5px; margin-right: 15px; float: left;">Последовательный порт соединения</p>                                                           
+                                                                <span style="margin-top: -18px;">
+                                                                    <input class="det_dcu_text" style="width: 100px; margin-top: 0px;" type="text">
+                                                                </span>
+                                                            </div>
+                                                            <div style="width: 100%; height: 36%;"> <!--средний блок в котором находяться два блока с шириной по 50%. это блоки red и maroon-->
+                                                                <div style="width: 49.5%; height: 100%; float: left; position: relative;border: 1px solid #666;">
+                                                                    <span style="left: 6px; top: -9px; font-family: Verdana; font-size: 12px; position: absolute;">Control Word</span>
+                                                                    <ul style="list-style: none; margin-top: 13px; margin-left: 15px;">
+                                                                            <li style="font-family: Verdana; font-size: 12px;"><input type="checkbox"><p class="det_dcu_p_opros" style="margin-top: -17.7px; margin-left: 21px;">Запрос состояний счетчиков</p></li>
+                                                                            <li style="font-family: Verdana; font-size: 12px; margin-top: 5px;"><input type="checkbox"><p class="det_dcu_p_opros" style="margin-top: -17.7px; margin-left: 21px;">Запрос на поиск нового или измененного</p></li>
+                                                                            <li style="font-family: Verdana; font-size: 12px; margin-top: 5px;"><input type="checkbox"><p class="det_dcu_p_opros" style="margin-top: -17.7px; margin-left: 21px;">Запрос оповещения по времени</p></li>
+                                                                            <li style="font-family: Verdana; font-size: 12px; margin-top: 5px;"><input type="checkbox"><p class="det_dcu_p_opros" style="margin-top: -17.7px; margin-left: 21px;">Запросить трансляцию принятого</p></li>
+                                                                            <li style="font-family: Verdana; font-size: 12px; margin-top: 5px;"><input type="checkbox"><p class="det_dcu_p_opros" style="margin-top: -17.7px; margin-left: 21px;">Запросить чтение важныых измерений</p></li>
+                                                                            <li style="font-family: Verdana; font-size: 12px; margin-top: 5px;"><input type="checkbox"><p class="det_dcu_p_opros" style="margin-top: -17.7px; margin-left: 21px;">Запретить автоматическое чтение</p></li>
+                                                                    </ul>
+                                                                </div>
+                                                                <div style="width: 49.5%; height: 100%; float: left; position: relative;border: 1px solid #666;">
+                                                                    <span style="left: 6px; top: -9px; font-family: Verdana; font-size: 12px; position: absolute;">Reading day</span>
+                                                                        <table class="reading_day" style="font-family: Verdana; font-size: 12px; margin-top: 8px; margin-bottom: 14px; margin-left: 13px;">
+                                                                                <tbody><tr>
+                                                                                        <td><input type="checkbox"><p style="margin-top: -17px; margin-left: 17px;">1</p></td><td><input type="checkbox"><p style="margin-top: -17px; margin-left: 17px;">2</p></td><td><input type="checkbox"><p style="margin-top: -17px; margin-left: 17px;">3</p></td><td><input type="checkbox"><p style="margin-top: -17px; margin-left: 17px;">4</p></td><td><input type="checkbox"><p style="margin-top: -17px; margin-left: 17px;">5</p></td><td><input type="checkbox"><p style="margin-top: -17px; margin-left: 17px;">6</p></td><td><input type="checkbox"><p style="margin-top: -17px; margin-left: 17px;">7</p></td>
+                                                                                </tr>
+                                                                                <tr>
+                                                                                        <td><input type="checkbox"><p style="margin-top: -17px; margin-left: 17px;">8</p></td><td><input type="checkbox"><p style="margin-top: -17px; margin-left: 17px;">9</p></td><td><input type="checkbox"><p style="margin-top: -17px; margin-left: 17px;">10</p></td><td><input type="checkbox"><p style="margin-top: -17px; margin-left: 17px;">11</p></td><td><input type="checkbox"><p style="margin-top: -17px; margin-left: 17px;">12</p></td><td><input type="checkbox"><p style="margin-top: -17px; margin-left: 17px;">13</p></td><td><input type="checkbox"><p style="margin-top: -17px; margin-left: 17px;">14</p></td>
+                                                                                </tr>
+                                                                                <tr>
+                                                                                        <td><input type="checkbox"><p style="margin-top: -17px; margin-left: 17px;">18</p></td><td><input type="checkbox"><p style="margin-top: -17px; margin-left: 17px;">19</p></td><td><input type="checkbox"><p style="margin-top: -17px; margin-left: 17px;">20</p></td><td><input type="checkbox"><p style="margin-top: -17px; margin-left: 17px;">21</p></td><td><input type="checkbox"><p style="margin-top: -17px; margin-left: 17px;">22</p></td><td><input type="checkbox"><p style="margin-top: -17px; margin-left: 17px;">23</p></td><td><input type="checkbox"><p style="margin-top: -17px; margin-left: 17px;">24</p></td>
+                                                                                </tr>
+                                                                                <tr>
+                                                                                        <td><input type="checkbox"><p style="margin-top: -17px; margin-left: 17px;">22</p></td><td><input type="checkbox"><p style="margin-top: -17px; margin-left: 17px;">23</p></td><td><input type="checkbox"><p style="margin-top: -17px; margin-left: 17px;">24</p></td><td><input type="checkbox"><p style="margin-top: -17px; margin-left: 17px;">25</p></td><td><input type="checkbox"><p style="margin-top: -17px; margin-left: 17px;">26</p></td><td><input type="checkbox"><p style="margin-top: -17px; margin-left: 17px;">27</p></td><td><input type="checkbox"><p style="margin-top: -17px; margin-left: 17px;">28</p></td>
+                                                                                </tr>
+                                                                                <tr>
+                                                                                        <td><input type="checkbox"><p style="margin-top: -17px; margin-left: 17px;">29</p></td><td><input type="checkbox"><p style="margin-top: -17px; margin-left: 17px;">30</p></td><td><input type="checkbox"><p style="margin-top: -17px; margin-left: 17px;">31</p></td><td><input type="checkbox"><p style="margin-top: -17px; margin-left: 17px;">All</p></td>
+                                                                                </tr>
+                                                                        </tbody></table>
+                                                                </div>
+                                                            </div>
+                                                            <div style="width: 100%; height: 37%;"> <!--нижний блок в котором находяться два блока с шириной по 50%. это блоки green и gray-->
+                                                                <div style="width: 49.5%; height: 100%; float: left; position: relative;border: 1px solid #666;">
+                                                                    <span style="left: 6px; top: -9px; font-family: Verdana; font-size: 12px; position: absolute;">Reading time</span>
+																	<div style="margin: 0px auto; width: 100%; height: 33px;">
+																		<div style="margin-top: 11px; margin-left: 127px;">
+																			<button class="det_dcu_button" style="width: 90px; height: 22px;">Добавить</button>
+																			<button class="det_dcu_button" style="width: 90px; height: 22px;">Удалить</button>
+																		</div>
+																	</div>
+																	<div style="margin: 0px auto; width: 100%; height: 95px;">
+																		<div style="margin: 0px auto; border: 1px solid rgb(102, 102, 102); border-image: none; width: 285px; height: 82px;">
+																			<div style="margin: 0px auto 0px -1px; border: 1px solid rgb(102, 102, 102); border-image: none; width: 100%; height: 23px;">
+																				<div style="border: 1px solid rgb(102, 102, 102); border-image: none; width: 76px; height: 23px; font-family: Verdana; font-size: 12px; margin-top: -1px; margin-left: 23px; float: left; background-color: rgb(0, 122, 204);"><span style="margin-left: 7px;">Start Time</span></div>
+																				<div style="border: 1px solid rgb(102, 102, 102); border-image: none; width: 76px; height: 23px; font-family: Verdana; font-size: 12px; margin-top: -1px; float: left;"><span style="margin-left: 7px;">End Time</span></div>
+																			</div>
+																			<div id="diff" style="margin: 0px auto; width: 100%; height: 56px; background-color: rgb(63, 63, 70);"></div>
+																			<div id="diff2" style="margin: 0px auto; width: 100%; height: 56px; display: none; background-color: red;"></div>
+																		</div>
+																	</div>
+                                                                </div>
+                                                                <div style="width: 49.5%; height: 100%; float: left; position: relative;border: 1px solid #666;">
+                                                                    <span style="left: 6px; top: -9px; height: 139px; font-family: Verdana; font-size: 12px; position: absolute;">Reading option</span>
+																	<div style="width: 62%; height: 100%; float: left;">
+																		<ul style="list-style: none;">
+																			<li><p class="det_dcu_p_set">Время опроса счетчика</p></li>
+																			<li><p class="det_dcu_p_set">Интервал опроса</p></li>
+																			<li><p class="det_dcu_p_set">День оповещения</p></li>
+																			<li><p class="det_dcu_p_set">Время оповещения</p></li>
+																		</ul>
+																	</div>
+                                                                    <div style="width: 36%; height: 100%; float: right;">
+																		<ul style="list-style: none; margin-left: 10px;">
+																			<li><p class="det_dcu_p_set_right" style="margin-top: 9px;"><input class="det_dcu_text_set" style="width: 40px; margin-right: 8px;" type="text" value="00:00">чч:мм</p></li>
+																			<li><p class="det_dcu_p_set_right" style="margin-top: 3px;"><input class="det_dcu_text_set" style="width: 40px; margin-right: 8px;" type="text" value="0">Минут</p></li>
+																			<li><p class="det_dcu_p_set_right"><input class="det_dcu_text_set" style="width: 40px; margin-right: 8px;" type="text" value="0">День</p></li>
+																			<li><p class="det_dcu_p_set_right"><input class="det_dcu_text_set" style="width: 40px; margin-right: 8px;" type="text" value="00:00">чч:мм</p></li>
+																		</ul>
+																	</div>
+                                                                </div>
+                                                            </div>
+                                                        </div> 
+<!--                                                        <div class="sn">
+                                                            <p class="det_dcu_p" style="float: left;margin-top: 5px; margin-left: 10px;">Последовательный порт соединения</p>                                                           
+                                                            <span style="float: left; margin-top: 2px; margin-left: 10px;">
+                                                                <input class="det_dcu_text" style="width: 100px;" type="text">
+                                                            </span>
+                                                        </div>
+														<div style="width: 650px;">
+															<div style="width: 100%; height: 45%;background: blue">
+																<div style="width: 50%; height: 100%; float: left; border: 1px solid #59595B;position: relative;background: red;">
+																	<span style="position: absolute;top: -9px;left: 6px;font-family: Verdana;font-size: 12px;">Control Word</span>
+																	<ul style="margin-left: 15px;list-style: none;margin-top: 13px;padding-bottom:16px;">
+																		<li style="font-family: Verdana;font-size: 12px;"><input type="checkbox"><p class="det_dcu_p_opros" style="margin-left: 21px;margin-top: -17.7px;">Запрос состояний счетчиков</p></li>
+																		<li style="font-family: Verdana;font-size: 12px;margin-top: 5px;"><input type="checkbox"><p class="det_dcu_p_opros" style="margin-left: 21px;margin-top: -17.7px;">Запрос на поиск нового или измененного</p></li>
+																		<li style="font-family: Verdana;font-size: 12px;margin-top: 5px;"><input type="checkbox"><p class="det_dcu_p_opros" style="margin-left: 21px;margin-top: -17.7px;">Запрос оповещения по времени</p></li>
+																		<li style="font-family: Verdana;font-size: 12px;margin-top: 5px;"><input type="checkbox"><p class="det_dcu_p_opros" style="margin-left: 21px;margin-top: -17.7px;">Запросить трансляцию принятого</p></li>
+																		<li style="font-family: Verdana;font-size: 12px;margin-top: 5px;"><input type="checkbox"><p class="det_dcu_p_opros" style="margin-left: 21px;margin-top: -17.7px;">Запросить чтение важныых измерений</p></li>
+																		<li style="font-family: Verdana;font-size: 12px;margin-top: 5px;"><input type="checkbox"><p class="det_dcu_p_opros" style="margin-left: 21px;margin-top: -17.7px;">Запретить автоматическое чтение</p></li>
+																	</ul>
+																</div>
+																<div style="width: 50%; height: 100%; float: left; border: 1px solid #59595B;position: relative;background: maroon;">
+																	<span style="position: absolute;top: -9px;left: 6px;font-family: Verdana;font-size: 12px;">Reading day</span>
+																	<table class="reading_day" style="font-family: Verdana;font-size: 12px;margin-top:8px; margin-left: 13px;margin-bottom: 14px;">
+																		<tr>
+																			<td><input type="checkbox" /><p style="margin-left: 17px;margin-top: -17px;">1</p></td><td><input type="checkbox" /><p style="margin-left: 17px;margin-top: -17px;">2</p></td><td><input type="checkbox" /><p style="margin-left: 17px;margin-top: -17px;">3</p></td><td><input type="checkbox" /><p style="margin-left: 17px;margin-top: -17px;">4</p></td><td><input type="checkbox" /><p style="margin-left: 17px;margin-top: -17px;">5</p></td><td><input type="checkbox" /><p style="margin-left: 17px;margin-top: -17px;">6</p></td><td><input type="checkbox" /><p style="margin-left: 17px;margin-top: -17px;">7</p></td>
+																		</tr>
+																		<tr>
+																			<td><input type="checkbox" /><p style="margin-left: 17px;margin-top: -17px;">8</p></td><td><input type="checkbox" /><p style="margin-left: 17px;margin-top: -17px;">9</p></td><td><input type="checkbox" /><p style="margin-left: 17px;margin-top: -17px;">10</p></td><td><input type="checkbox" /><p style="margin-left: 17px;margin-top: -17px;">11</p></td><td><input type="checkbox" /><p style="margin-left: 17px;margin-top: -17px;">12</p></td><td><input type="checkbox" /><p style="margin-left: 17px;margin-top: -17px;">13</p></td><td><input type="checkbox" /><p style="margin-left: 17px;margin-top: -17px;">14</p></td>
+																		</tr>
+																		<tr>
+																			<td><input type="checkbox" /><p style="margin-left: 17px;margin-top: -17px;">18</p></td><td><input type="checkbox" /><p style="margin-left: 17px;margin-top: -17px;">19</p></td><td><input type="checkbox" /><p style="margin-left: 17px;margin-top: -17px;">20</p></td><td><input type="checkbox" /><p style="margin-left: 17px;margin-top: -17px;">21</p></td><td><input type="checkbox" /><p style="margin-left: 17px;margin-top: -17px;">22</p></td><td><input type="checkbox" /><p style="margin-left: 17px;margin-top: -17px;">23</p></td><td><input type="checkbox" /><p style="margin-left: 17px;margin-top: -17px;">24</p></td>
+																		</tr>
+																		<tr>
+																			<td><input type="checkbox" /><p style="margin-left: 17px;margin-top: -17px;">22</p></td><td><input type="checkbox" /><p style="margin-left: 17px;margin-top: -17px;">23</p></td><td><input type="checkbox" /><p style="margin-left: 17px;margin-top: -17px;">24</p></td><td><input type="checkbox" /><p style="margin-left: 17px;margin-top: -17px;">25</p></td><td><input type="checkbox" /><p style="margin-left: 17px;margin-top: -17px;">26</p></td><td><input type="checkbox" /><p style="margin-left: 17px;margin-top: -17px;">27</p></td><td><input type="checkbox" /><p style="margin-left: 17px;margin-top: -17px;">28</p></td>
+																		</tr>
+																		<tr>
+																			<td><input type="checkbox" /><p style="margin-left: 17px;margin-top: -17px;">29</p></td><td><input type="checkbox" /><p style="margin-left: 17px;margin-top: -17px;">30</p></td><td><input type="checkbox" /><p style="margin-left: 17px;margin-top: -17px;">31</p></td><td><input type="checkbox" /><p style="margin-left: 17px;margin-top: -17px;">All</p></td>
+																		</tr>
+																	</table>
+																</div>
+															</div>
+															<div style="width: 100%; height: 45%;background: black">
+																<div style="width: 50%; height: 100%; float: left; border: 1px solid #59595B;position: relative;background: green;">
+																	<span style="position: absolute;top: -9px;left: 6px;font-family: Verdana;font-size: 12px;">Reading time</span>
+																	<div style="width: 100%;height: 33px;margin: 0px auto;">
+																		<div style="margin-top: 11px;margin-left: 127px;">
+																			<button class="det_dcu_button" style="width: 90px;height: 22px;">Добавить</button>
+																			<button class="det_dcu_button" style="width: 90px;height: 22px;">Удалить</button>
+																		</div>
+																	</div>
+																	<div style="width: 100%;height: 95px;margin: 0px auto;">
+																		<div style="border:1px solid #666;margin: 0px auto;width: 285px;height: 82px;">
+																			<div style="border:1px solid #666;margin: 0 auto 0px -1px;width: 100%;height: 23px;">
+																				<div style="border:1px solid #666;background-color:#007ACC;margin-left:23px; margin-top: -1px;width: 76px;height: 23px;float: left;font-family: Verdana;font-size: 12px;"><span style="margin-left: 7px;">Start Time</span></div>
+																				<div style="border:1px solid #666;width: 76px; margin-top: -1px;height: 23px;float: left;font-family: Verdana;font-size: 12px;"><span style="margin-left: 7px;">End Time</span></div>
+																			</div>
+																			<div id="diff" style="margin: 0 auto;width: 100%;height: 56px;background-color: #3F3F46;"></div>
+																			<div id="diff2" style="margin: 0 auto;width: 100%;height: 56px;background-color: red;display: none;"></div>
+																		</div>
+																	</div>
+																</div>
+																<div class="reading_option" style="width: 50%; height: 100%; float: left; border: 1px solid #59595B;position: relative;padding-bottom: 6px;background: gray;"> 
+																	<span style="position: absolute;top: -9px;left: 6px;font-family: Verdana;font-size: 12px;height: 139px;">Reading option</span>
+																	<div style="width: 62%;float: left;height: 100%;">
+																		<ul style="list-style: none;">
+																			<li><p class="det_dcu_p_set" style="">Время опроса счетчика</p></li>
+																			<li><p class="det_dcu_p_set" style="">Интервал опроса</p></li>
+																			<li><p class="det_dcu_p_set" style="">День оповещения</p></li>
+																			<li><p class="det_dcu_p_set" style="">Время оповещения</p></li>
+																		</ul>
+																	</div>
+																	<div style="width: 36%;height: 100%;float: right;">
+																		<ul style="margin-left: 10px; list-style: none;">
+																			<li><p class="det_dcu_p_set_right" style="margin-top: 9px;"><input class="det_dcu_text_set" type="text" value="00:00" style="width: 40px;margin-right: 8px;">чч:мм</p></li>
+																			<li><p class="det_dcu_p_set_right" style="margin-top: 3px;"><input class="det_dcu_text_set" type="text" value="0" style="width: 40px;margin-right: 8px;">Минут</p></li>
+																			<li><p class="det_dcu_p_set_right" style=""><input class="det_dcu_text_set" type="text" value="0" style="width: 40px;margin-right: 8px;">День</p></li>
+																			<li><p class="det_dcu_p_set_right" style=""><input class="det_dcu_text_set" type="text" value="00:00" style="width: 40px;margin-right: 8px;">чч:мм</p></li>
+																		</ul>
+																	</div>
+																</div>
+															</div>	
+														</div>-->
+														<div style="border:none;margin-top: -51px;margin-left: 333px;">
+															<button class="det_dcu_button" style="width: 60px;height:30px;">Опрос</button>
+															<button class="det_dcu_button" style="width: 90px;height:30px;">Записать</button>
+															<button class="det_dcu_button" style="width: 90px;height:30px;">Выгрузить</button>
+															<button class="det_dcu_button" style="width: 75px;height:30px;">Закрыть</button>
+														</div>
+                                                    </div>
+													<!--Опрос END-->
+													<!--Отчет BEGIN-->
+                                                    <div id="cdu_settings_otchet" style="border: none;padding-top: 12px;">
+														<div class="sn" style="height: 100px;">
+															<div style="width: 36%;float: left;">
+																<p class="det_dcu_p" style="margin-top: 7px;">Task Id</p>
+																<p class="det_dcu_p">Модуль цикла</p>
+																<p class="det_dcu_p">Уровень извлекаемых данных</p>
+															</div>
+															<div style="width: 10%;float: left;margin-right:50px;">
+																<span>
+																	<select class="det_dcu_select" style="width: 100px;float: none;">
+																		<option value=""></option>
+																		<option value="DCU">DCU</option>
+																		<option value="GPRS">GPRS</option>
+																		<option value="CSD">CSD</option>
+																		<option value="Null">Null</option>
+																	</select>
+																</span>
+																<span>
+																	<select class="det_dcu_select" style="width: 100px;float: none;">
+																		<option value=""></option>
+																		<option value="DCU">DCU</option>
+																		<option value="GPRS">GPRS</option>
+																		<option value="CSD">CSD</option>
+																		<option value="Null">Null</option>
+																	</select>
+																</span>
+																<span>
+																	<input class="det_dcu_text" style="width: 86px;float: none;">
+																</span>
+															</div>
+															<div style="width:24%; float: left;margin-right: 15px;">
+																<p class="det_dcu_p" style="margin-top: 7px;">Class Type</p>
+																<p class="det_dcu_p">Regulary report period</p>
+																<p class="det_dcu_p">Начало чтения</p>
+															</div>
+															<div style="width: 10%;float: left;">
+																<span>
+																	<select class="det_dcu_select" style="width: 100px;float: none;">
+																		<option value=""></option>
+																		<option value="DCU">DCU</option>
+																		<option value="GPRS">GPRS</option>
+																		<option value="CSD">CSD</option>
+																		<option value="Null">Null</option>
+																	</select>
+																</span>
+																<span>
+																	<input class="det_dcu_text" style="width: 86px;float: none;">
+																</span>
+																<span>
+																	<input class="det_dcu_text" style="width: 86px;float: none;">
+																</span>
+															</div>
+														</div>
+														<div style="width:100%;height:158px;margin: 0px 11px;">
+															<div style="width:30%;height:148px;float: left;">
+																<div style="width:84%;padding: 5px 15px 5px 15px;font-family: Verdana;font-size: 12px;background-color:#3F3F46;">
+																	<span style="margin-top: 15px;">Выбрать все</span>
+																</div>
+																<hr>
+																<div style="width:100%;height: 90%;font-family: Verdana;font-size: 12px;overflow: scroll;">
+																	<table style="min-width: 237px;border-spacing: 0px;" class="otchet">
+																		<tr style="background-color:#2D2D30;">
+																			<td>CHK</td><td>FNO</td><td>Description</td>
+																		</tr>
+																		<tr style="background-color:#2E2E2E;">
+																			<td><input type="checkbox" /></td><td>161</td><td>Positive active</td>
+																		</tr>
+																		<tr style="background-color:#1E1E1E;">
+																			<td><input type="checkbox" /></td><td>161</td><td>Positive active</td>
+																		</tr>
+																		<tr style="background-color:#2E2E2E;">
+																			<td><input type="checkbox" /></td><td>161</td><td>Positive active</td>
+																		</tr>
+																		<tr style="background-color:#1E1E1E;">
+																			<td><input type="checkbox" /></td><td>161</td><td>Positive active</td>
+																		</tr>
+																		<tr style="background-color:#2E2E2E;">
+																			<td><input type="checkbox" /></td><td>161</td><td>Positive active</td>
+																		</tr>
+																		<tr style="background-color:#1E1E1E;">
+																			<td><input type="checkbox" /></td><td>161</td><td>Positive active</td>
+																		</tr>
+																		<tr style="background-color:#2E2E2E;">
+																			<td><input type="checkbox" /></td><td>161</td><td>Positive active</td>
+																		</tr>
+																		<tr style="background-color:#1E1E1E;">
+																			<td><input type="checkbox" /></td><td>161</td><td>Positive active</td>
+																		</tr>
+																		<tr style="background-color:#2E2E2E;">
+																			<td><input type="checkbox" /></td><td>161</td><td>Positive active</td>
+																		</tr>
+																		<tr style="background-color:#1E1E1E;">
+																			<td><input type="checkbox" /></td><td>161</td><td>Positive active</td>
+																		</tr>
+																	</table>
+																</div>
+															</div>
+															<div style="width:65%;height:148px;float: left;margin-left:9px;">
+																<div style="width:93%;padding: 5px 15px 5px 15px;font-family: Verdana;font-size: 12px;background-color:#3F3F46;">
+																	<span style="margin-top: 15px;">Задайте номер функции для каждого Концентратора</span>
+																</div>
+																<hr>
+																<div style="width:100%;height: 90%;font-family: Verdana;font-size: 12px;overflow: scroll;">
+																	<table style="border-spacing: 0px;" class="otchet">
+																		<tr style="background-color:#2D2D30;">
+																			<td>PNO</td><td>F161</td><td>F162</td><td>F163</td><td>F164</td><td>F185</td><td>F187</td><td>F230</td><td>F231</td><td>F232</td><td>F233</td><td>F234</td>
+																		</tr>
+																		<tr style="background-color:#2E2E2E;">
+																			<td style="text-align: right;">1</td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td>
+																		</tr>
+																		<tr style="background-color:#1E1E1E;">
+																			<td style="text-align: right;">2</td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td>
+																		</tr>
+																		<tr style="background-color:#2E2E2E;">
+																			<td style="text-align: right;">3</td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td>
+																		</tr>
+																		<tr style="background-color:#1E1E1E;">
+																			<td style="text-align: right;">4</td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td>
+																		</tr>
+																		<tr style="background-color:#2E2E2E;">
+																			<td style="text-align: right;">5</td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td>
+																		</tr>
+																		<tr style="background-color:#1E1E1E;">
+																			<td style="text-align: right;">6</td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td>
+																		</tr>
+																		<tr style="background-color:#2E2E2E;">
+																			<td style="text-align: right;">7</td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td>
+																		</tr>
+																		<tr style="background-color:#1E1E1E;">
+																			<td style="text-align: right;">8</td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td>
+																		</tr>
+																		<tr style="background-color:#2E2E2E;">
+																			<td style="text-align: right;">9</td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td>
+																		</tr>
+																		<tr style="background-color:#1E1E1E;">
+																			<td style="text-align: right;">10</td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td><td><input type="checkbox" /></td>
+																		</tr>
+																	</table>
+																</div>
+															</div>
+														</div>
+                                                        <div style="border:none;margin-top: 15px;margin-left: 13px;font-family: Verdana;font-size: 12px;width: 632px;/* height: 263px; */">
+															<div style="height: 18px;width: 100%;">
+																<div style="float: left;margin-right: 10px;"><input type="checkbox"><p style="margin-left: 17px;margin-top: -17px;">Пуск</p></div>
+																<div style="float: left;margin-right: 10px;"><input type="checkbox"><p style="margin-left: 17px;margin-top: -17px;">Остановка</p></div>
+																<div style="float: left;margin-right: 10px;"><input type="checkbox"><p style="margin-left: 17px;margin-top: -17px;">Не установлен</p></div>
+																<div style="float: left;margin-top: -4px;"><button class="det_dcu_button" style="width: 57px;height: 22px;">Начало</button></div>
+																<div style="float: left;margin-top: -4px;"><button class="det_dcu_button" style="width: 41px;height: 22px;">Стоп</button></div>
+																<div style="float: right;margin-top: -4px;margin-left: 35;"><button class="det_dcu_button" style="width: 68px;height: 22px;">Обновить</button></div>
+															</div>
+															<div style="margin-left: 447px;width: 100%;height: 57px;margin-top: 20px;">
+																<button class="det_dcu_button" style="width: 51px;height:30px;">Опрос</button>
+																<button class="det_dcu_button" style="width: 57px;height:30px;">Запись</button>
+																<button class="det_dcu_button" style="width: 71px;height:30px;">Закрыть</button>
+															</div>
+														</div>
+                                                    </div>
+													<!--Отчет END-->
+													<!--Данные BEGIN-->
+                                                    <div style="border: none;padding-top: 12px;" id="cdu_settings_data"><!--Данные-->
+                                                        <div class="sn" style="height: 29px;">
+															<div style="width: 28%;float: left;">
+																<p class="det_dcu_p" style="margin-top: 7px;">Старшая группа</p>
+															</div>
+															<div style="width: 10%;float: left;margin-right: 55px;">
+																<span>
+																	<select class="det_dcu_select" style="width: 100px;float: none;">
+																		<option value=""></option>
+																		<option value="DCU">0</option>
+																		<option value="GPRS">1</option>
+																		<option value="CSD">2</option>
+																		<option value="Null">3</option>
+																	</select>
+																</span>
+															</div>
+															<div style="width:24%; float: left;margin-right: 15px;">
+																<p class="det_dcu_p" style="margin-top: 7px;">Тип класса данных</p>
+															</div>
+															<div style="width: 10%;float: left;">
+																<span>
+																	<select class="det_dcu_select" style="width: 100px;float: none;">
+																		<option value=""></option>
+																		<option value="DCU">First Class</option>
+																		<option value="GPRS">Second Class</option>
+																		<option value="CSD">Third Class</option>
+																		<option value="Null">Null</option>
+																	</select>
+																</span>
+															</div>
+														</div>
+														<div style="width: 100%;height: 250px;margin: 0px 11px;">
+															<div style="width: 30%;height: 250px;float: left;">
+																<div style="width: 54%;padding: 5px 15px 5px 5px;font-family: Verdana;font-size: 12px;background-color:#3F3F46;">
+																	<span style="margin-top: 15px;">Младшая группа</span>
+																</div>
+																<hr>
+																<div style="width: 64%;height: 90%;font-family: Verdana;font-size: 12px;overflow: scroll;">
+																	<table style="/* min-width: 237px; */border-spacing: 0px;width: 115px;" class="data">
+																		<tbody><tr style="background-color:#2D2D30;">
+																			<td>CHK</td><td>No</td><td></td>
+																		</tr>
+																		<tr style="background-color:#2E2E2E;">
+																			<td><input type="checkbox"></td><td>0</td><td></td>
+																		</tr>
+																		<tr style="background-color:#1E1E1E;">
+																			<td><input type="checkbox"></td><td>1</td><td></td>
+																		</tr>
+																		<tr style="background-color:#2E2E2E;">
+																			<td><input type="checkbox"></td><td>2</td><td></td>
+																		</tr>
+																		<tr style="background-color:#1E1E1E;">
+																			<td><input type="checkbox"></td><td>3</td><td></td>
+																		</tr>
+																		<tr style="background-color:#2E2E2E;">
+																			<td><input type="checkbox"></td><td>4</td><td></td>
+																		</tr>
+																		<tr style="background-color:#1E1E1E;">
+																			<td><input type="checkbox"></td><td>5</td><td></td>
+																		</tr>
+																		<tr style="background-color:#2E2E2E;">
+																			<td><input type="checkbox"></td><td>6</td><td></td>
+																		</tr>
+																		<tr style="background-color:#1E1E1E;">
+																			<td><input type="checkbox"></td><td>7</td><td></td>
+																		</tr>
+																		<tr style="background-color:#2E2E2E;">
+																			<td><input type="checkbox"></td><td>8</td><td></td>
+																		</tr>
+																		<tr style="background-color:#1E1E1E;">
+																			<td><input type="checkbox"></td><td>9</td><td></td>
+																		</tr>
+																	</tbody></table>
+																</div>
+															</div>
+															<div style="width: 76%;height: 250px;float: left;margin-left: -62px;">
+																<div style="width: 93%;padding: 5px 15px 5px 15px;font-family: Verdana;font-size: 12px;background-color:#3F3F46;">
+																	<span style="margin-top: 15px;">Установить функцию данных для каждой младшей группы</span>
+																</div>
+																<hr>
+																<div style="width:100%;height: 90%;font-family: Verdana;font-size: 12px;overflow: scroll;">
+																	<table style="border-spacing: 0px;min-width: 636px;" class="data">
+																		<tbody><tr style="background-color:#2D2D30;">
+																			<td>FNO</td><td>Description</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td>
+																		</tr>
+																		<tr style="background-color:#2E2E2E;">
+																			<td style="text-align: right;">161</td><td>Positive active energy</td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td>
+																		</tr>
+																		<tr style="background-color:#1E1E1E;">
+																			<td style="text-align: right;">162</td><td>Positive reactive energy</td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td>
+																		</tr>
+																		<tr style="background-color:#2E2E2E;">
+																			<td style="text-align: right;">163</td><td>Negative active energy</td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td>
+																		</tr>
+																		<tr style="background-color:#1E1E1E;">
+																			<td style="text-align: right;">164</td><td>Negative reactive energy</td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td>
+																		</tr>
+																		<tr style="background-color:#2E2E2E;">
+																			<td style="text-align: right;">185</td><td>Positive active maximum demand</td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td>
+																		</tr>
+																		<tr style="background-color:#1E1E1E;">
+																			<td style="text-align: right;">187</td><td>Negative active maximum demand</td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td>
+																		</tr>
+																		<tr style="background-color:#2E2E2E;">
+																			<td style="text-align: right;">230</td><td>Cover open event</td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td>
+																		</tr>
+																		<tr style="background-color:#1E1E1E;">
+																			<td style="text-align: right;">231</td><td>Terminal block open event</td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td>
+																		</tr>
+																		<tr style="background-color:#2E2E2E;">
+																			<td style="text-align: right;">232</td><td>Relay off event</td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td>
+																		</tr>
+																		<tr style="background-color:#1E1E1E;">
+																			<td style="text-align: right;">232</td><td>Relay on event</td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><input type="checkbox"></td>
+																		</tr>
+																	</tbody></table>
+																</div>
+															</div>
+														</div>
+                                                        <div style="border:none;margin-top: 15px;margin-left: 13px;font-family: Verdana;font-size: 12px;width: 632px;">
+															<div style="margin-left: 447px;width: 100%;height: 57px;margin-top: 27px;">
+																<button class="det_dcu_button" style="width: 51px;height:30px;">Опрос</button>
+																<button class="det_dcu_button" style="width: 57px;height:30px;">Запись</button>
+																<button class="det_dcu_button" style="width: 71px;height:30px;">Закрыть</button>
+															</div>
+														</div>
+                                                    </div>
+													<!--Данные-->
+                                                </div>   
+                                            </div>
+                                        </div>
+                                                    </div>
+													<!--Отчет END-->
+													<!--Данные BEGIN-->
+                                                    <div style="height:551px;border: none;" id="cdu_settings_data"><!--Данные-->
+                                                        
+                                                    </div>
+													<!--Данные-->
+                                                </div>   
+                                            </div>
+                                        </div>
+                                        <!--Andrews code END-->                                                                                
+                    
+                                        
+				</div>
+
+			</div>
+		</div>
+			
+		
+
+		
+	</div>
+<script type="text/javascript" src="/mainjs.js"></script>
+</body>
+</html>

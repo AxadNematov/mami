@@ -1,0 +1,1227 @@
+C:\inetpub\wwwroot\mami\mami\bin\ApplicationInsights.config
+C:\inetpub\wwwroot\mami\mami\bin\roslyn\csc.exe
+C:\inetpub\wwwroot\mami\mami\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\inetpub\wwwroot\mami\mami\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\inetpub\wwwroot\mami\mami\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\inetpub\wwwroot\mami\mami\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\inetpub\wwwroot\mami\mami\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\inetpub\wwwroot\mami\mami\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\inetpub\wwwroot\mami\mami\bin\roslyn\System.Collections.Immutable.dll
+C:\inetpub\wwwroot\mami\mami\bin\roslyn\System.Reflection.Metadata.dll
+C:\inetpub\wwwroot\mami\mami\bin\roslyn\vbc.exe
+C:\inetpub\wwwroot\mami\mami\bin\roslyn\VBCSCompiler.exe
+C:\inetpub\wwwroot\mami\mami\bin\roslyn\VBCSCompiler.exe.config
+C:\inetpub\wwwroot\mami\mami\bin\mami.dll.config
+C:\inetpub\wwwroot\mami\mami\bin\mami.dll
+C:\inetpub\wwwroot\mami\mami\bin\mami.pdb
+C:\inetpub\wwwroot\mami\mami\bin\Antlr3.Runtime.dll
+C:\inetpub\wwwroot\mami\mami\bin\Microsoft.AI.Agent.Intercept.dll
+C:\inetpub\wwwroot\mami\mami\bin\Microsoft.AI.DependencyCollector.dll
+C:\inetpub\wwwroot\mami\mami\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\inetpub\wwwroot\mami\mami\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\inetpub\wwwroot\mami\mami\bin\Microsoft.AI.Web.dll
+C:\inetpub\wwwroot\mami\mami\bin\Microsoft.AI.WindowsServer.dll
+C:\inetpub\wwwroot\mami\mami\bin\Microsoft.ApplicationInsights.dll
+C:\inetpub\wwwroot\mami\mami\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\inetpub\wwwroot\mami\mami\bin\Microsoft.Web.Infrastructure.dll
+C:\inetpub\wwwroot\mami\mami\bin\Newtonsoft.Json.dll
+C:\inetpub\wwwroot\mami\mami\bin\System.Web.Helpers.dll
+C:\inetpub\wwwroot\mami\mami\bin\System.Web.Mvc.dll
+C:\inetpub\wwwroot\mami\mami\bin\System.Web.Optimization.dll
+C:\inetpub\wwwroot\mami\mami\bin\System.Web.Razor.dll
+C:\inetpub\wwwroot\mami\mami\bin\System.Web.WebPages.Deployment.dll
+C:\inetpub\wwwroot\mami\mami\bin\System.Web.WebPages.dll
+C:\inetpub\wwwroot\mami\mami\bin\System.Web.WebPages.Razor.dll
+C:\inetpub\wwwroot\mami\mami\bin\WebGrease.dll
+C:\inetpub\wwwroot\mami\mami\bin\Microsoft.AI.DependencyCollector.xml
+C:\inetpub\wwwroot\mami\mami\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\inetpub\wwwroot\mami\mami\bin\Microsoft.AI.Web.xml
+C:\inetpub\wwwroot\mami\mami\bin\Microsoft.AI.WindowsServer.xml
+C:\inetpub\wwwroot\mami\mami\bin\Microsoft.ApplicationInsights.xml
+C:\inetpub\wwwroot\mami\mami\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\inetpub\wwwroot\mami\mami\bin\System.Web.Helpers.xml
+C:\inetpub\wwwroot\mami\mami\bin\System.Web.Mvc.xml
+C:\inetpub\wwwroot\mami\mami\bin\System.Web.Optimization.xml
+C:\inetpub\wwwroot\mami\mami\bin\System.Web.Razor.xml
+C:\inetpub\wwwroot\mami\mami\bin\System.Web.WebPages.xml
+C:\inetpub\wwwroot\mami\mami\bin\System.Web.WebPages.Deployment.xml
+C:\inetpub\wwwroot\mami\mami\bin\System.Web.WebPages.Razor.xml
+C:\inetpub\wwwroot\mami\mami\bin\Antlr3.Runtime.pdb
+C:\inetpub\wwwroot\mami\mami\bin\Newtonsoft.Json.xml
+C:\inetpub\wwwroot\mami\mami\obj\Debug\mami.dll
+C:\inetpub\wwwroot\mami\mami\obj\Debug\mami.pdb
+C:\inetpub\wwwroot\mami\mami\bin\EntityFramework.dll
+C:\inetpub\wwwroot\mami\mami\bin\EntityFramework.SqlServer.dll
+C:\inetpub\wwwroot\mami\mami\bin\EntityFramework.xml
+C:\inetpub\wwwroot\mami\mami\bin\EntityFramework.SqlServer.xml
+C:\inetpub\wwwroot\mami\mami\obj\Debug\mami.csprojResolveAssemblyReference.cache
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\1\mami\obj\Debug\mami.csprojResolveAssemblyReference.cache
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\1\mami\obj\Debug\mami.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\1\mami\obj\Debug\mami.pdb
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\1\mami\bin\ApplicationInsights.config
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\1\mami\bin\roslyn\csc.exe
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\1\mami\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\1\mami\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\1\mami\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\1\mami\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\1\mami\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\1\mami\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\1\mami\bin\roslyn\System.Collections.Immutable.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\1\mami\bin\roslyn\System.Reflection.Metadata.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\1\mami\bin\roslyn\vbc.exe
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\1\mami\bin\roslyn\VBCSCompiler.exe
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\1\mami\bin\roslyn\VBCSCompiler.exe.config
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\1\mami\bin\mami.dll.config
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\1\mami\bin\mami.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\1\mami\bin\mami.pdb
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\1\mami\bin\Antlr3.Runtime.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\1\mami\bin\EntityFramework.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\1\mami\bin\EntityFramework.SqlServer.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\1\mami\bin\Microsoft.AI.Agent.Intercept.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\1\mami\bin\Microsoft.AI.DependencyCollector.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\1\mami\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\1\mami\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\1\mami\bin\Microsoft.AI.Web.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\1\mami\bin\Microsoft.AI.WindowsServer.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\1\mami\bin\Microsoft.ApplicationInsights.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\1\mami\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\1\mami\bin\Microsoft.Web.Infrastructure.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\1\mami\bin\Newtonsoft.Json.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\1\mami\bin\System.Web.Helpers.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\1\mami\bin\System.Web.Mvc.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\1\mami\bin\System.Web.Optimization.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\1\mami\bin\System.Web.Razor.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\1\mami\bin\System.Web.WebPages.Deployment.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\1\mami\bin\System.Web.WebPages.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\1\mami\bin\System.Web.WebPages.Razor.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\1\mami\bin\WebGrease.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\1\mami\bin\EntityFramework.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\1\mami\bin\EntityFramework.SqlServer.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\1\mami\bin\Microsoft.AI.DependencyCollector.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\1\mami\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\1\mami\bin\Microsoft.AI.Web.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\1\mami\bin\Microsoft.AI.WindowsServer.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\1\mami\bin\Microsoft.ApplicationInsights.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\1\mami\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\1\mami\bin\System.Web.Helpers.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\1\mami\bin\System.Web.Mvc.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\1\mami\bin\System.Web.Optimization.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\1\mami\bin\System.Web.Razor.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\1\mami\bin\System.Web.WebPages.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\1\mami\bin\System.Web.WebPages.Deployment.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\1\mami\bin\System.Web.WebPages.Razor.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\1\mami\bin\Antlr3.Runtime.pdb
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\1\mami\bin\Newtonsoft.Json.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2\mami\obj\Debug\mami.csprojResolveAssemblyReference.cache
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2\mami\obj\Debug\mami.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2\mami\obj\Debug\mami.pdb
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2\mami\bin\ApplicationInsights.config
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2\mami\bin\roslyn\csc.exe
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2\mami\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2\mami\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2\mami\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2\mami\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2\mami\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2\mami\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2\mami\bin\roslyn\System.Collections.Immutable.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2\mami\bin\roslyn\System.Reflection.Metadata.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2\mami\bin\roslyn\vbc.exe
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2\mami\bin\roslyn\VBCSCompiler.exe
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2\mami\bin\roslyn\VBCSCompiler.exe.config
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2\mami\bin\mami.dll.config
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2\mami\bin\mami.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2\mami\bin\mami.pdb
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2\mami\bin\Antlr3.Runtime.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2\mami\bin\EntityFramework.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2\mami\bin\EntityFramework.SqlServer.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2\mami\bin\Microsoft.AI.Agent.Intercept.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2\mami\bin\Microsoft.AI.DependencyCollector.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2\mami\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2\mami\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2\mami\bin\Microsoft.AI.Web.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2\mami\bin\Microsoft.AI.WindowsServer.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2\mami\bin\Microsoft.ApplicationInsights.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2\mami\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2\mami\bin\Microsoft.Web.Infrastructure.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2\mami\bin\Newtonsoft.Json.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2\mami\bin\System.Web.Helpers.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2\mami\bin\System.Web.Mvc.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2\mami\bin\System.Web.Optimization.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2\mami\bin\System.Web.Razor.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2\mami\bin\System.Web.WebPages.Deployment.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2\mami\bin\System.Web.WebPages.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2\mami\bin\System.Web.WebPages.Razor.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2\mami\bin\WebGrease.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2\mami\bin\EntityFramework.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2\mami\bin\EntityFramework.SqlServer.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2\mami\bin\Microsoft.AI.DependencyCollector.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2\mami\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2\mami\bin\Microsoft.AI.Web.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2\mami\bin\Microsoft.AI.WindowsServer.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2\mami\bin\Microsoft.ApplicationInsights.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2\mami\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2\mami\bin\System.Web.Helpers.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2\mami\bin\System.Web.Mvc.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2\mami\bin\System.Web.Optimization.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2\mami\bin\System.Web.Razor.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2\mami\bin\System.Web.WebPages.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2\mami\bin\System.Web.WebPages.Deployment.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2\mami\bin\System.Web.WebPages.Razor.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2\mami\bin\Antlr3.Runtime.pdb
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2\mami\bin\Newtonsoft.Json.xml
+F:\2\mami\bin\ApplicationInsights.config
+F:\2\mami\bin\roslyn\csc.exe
+F:\2\mami\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\2\mami\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\2\mami\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\2\mami\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\2\mami\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\2\mami\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\2\mami\bin\roslyn\System.Collections.Immutable.dll
+F:\2\mami\bin\roslyn\System.Reflection.Metadata.dll
+F:\2\mami\bin\roslyn\vbc.exe
+F:\2\mami\bin\roslyn\VBCSCompiler.exe
+F:\2\mami\bin\roslyn\VBCSCompiler.exe.config
+F:\2\mami\bin\mami.dll.config
+F:\2\mami\bin\mami.dll
+F:\2\mami\bin\mami.pdb
+F:\2\mami\bin\Antlr3.Runtime.dll
+F:\2\mami\bin\EntityFramework.dll
+F:\2\mami\bin\EntityFramework.SqlServer.dll
+F:\2\mami\bin\Microsoft.AI.Agent.Intercept.dll
+F:\2\mami\bin\Microsoft.AI.DependencyCollector.dll
+F:\2\mami\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\2\mami\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\2\mami\bin\Microsoft.AI.Web.dll
+F:\2\mami\bin\Microsoft.AI.WindowsServer.dll
+F:\2\mami\bin\Microsoft.ApplicationInsights.dll
+F:\2\mami\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\2\mami\bin\Microsoft.Web.Infrastructure.dll
+F:\2\mami\bin\Newtonsoft.Json.dll
+F:\2\mami\bin\System.Web.Helpers.dll
+F:\2\mami\bin\System.Web.Mvc.dll
+F:\2\mami\bin\System.Web.Optimization.dll
+F:\2\mami\bin\System.Web.Razor.dll
+F:\2\mami\bin\System.Web.WebPages.Deployment.dll
+F:\2\mami\bin\System.Web.WebPages.dll
+F:\2\mami\bin\System.Web.WebPages.Razor.dll
+F:\2\mami\bin\WebGrease.dll
+F:\2\mami\bin\EntityFramework.xml
+F:\2\mami\bin\EntityFramework.SqlServer.xml
+F:\2\mami\bin\Microsoft.AI.DependencyCollector.xml
+F:\2\mami\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\2\mami\bin\Microsoft.AI.Web.xml
+F:\2\mami\bin\Microsoft.AI.WindowsServer.xml
+F:\2\mami\bin\Microsoft.ApplicationInsights.xml
+F:\2\mami\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\2\mami\bin\System.Web.Helpers.xml
+F:\2\mami\bin\System.Web.Mvc.xml
+F:\2\mami\bin\System.Web.Optimization.xml
+F:\2\mami\bin\System.Web.Razor.xml
+F:\2\mami\bin\System.Web.WebPages.xml
+F:\2\mami\bin\System.Web.WebPages.Deployment.xml
+F:\2\mami\bin\System.Web.WebPages.Razor.xml
+F:\2\mami\bin\Antlr3.Runtime.pdb
+F:\2\mami\bin\Newtonsoft.Json.xml
+F:\2\mami\obj\Debug\mami.csprojResolveAssemblyReference.cache
+F:\2\mami\obj\Debug\mami.dll
+F:\2\mami\obj\Debug\mami.pdb
+H:\2\mami\bin\ApplicationInsights.config
+H:\2\mami\bin\roslyn\csc.exe
+H:\2\mami\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\2\mami\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\2\mami\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\2\mami\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\2\mami\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\2\mami\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\2\mami\bin\roslyn\System.Collections.Immutable.dll
+H:\2\mami\bin\roslyn\System.Reflection.Metadata.dll
+H:\2\mami\bin\roslyn\vbc.exe
+H:\2\mami\bin\roslyn\VBCSCompiler.exe
+H:\2\mami\bin\roslyn\VBCSCompiler.exe.config
+H:\2\mami\bin\mami.dll.config
+H:\2\mami\bin\mami.dll
+H:\2\mami\bin\mami.pdb
+H:\2\mami\bin\Antlr3.Runtime.dll
+H:\2\mami\bin\EntityFramework.dll
+H:\2\mami\bin\EntityFramework.SqlServer.dll
+H:\2\mami\bin\Microsoft.AI.Agent.Intercept.dll
+H:\2\mami\bin\Microsoft.AI.DependencyCollector.dll
+H:\2\mami\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\2\mami\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\2\mami\bin\Microsoft.AI.Web.dll
+H:\2\mami\bin\Microsoft.AI.WindowsServer.dll
+H:\2\mami\bin\Microsoft.ApplicationInsights.dll
+H:\2\mami\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\2\mami\bin\Microsoft.Web.Infrastructure.dll
+H:\2\mami\bin\Newtonsoft.Json.dll
+H:\2\mami\bin\System.Web.Helpers.dll
+H:\2\mami\bin\System.Web.Mvc.dll
+H:\2\mami\bin\System.Web.Optimization.dll
+H:\2\mami\bin\System.Web.Razor.dll
+H:\2\mami\bin\System.Web.WebPages.Deployment.dll
+H:\2\mami\bin\System.Web.WebPages.dll
+H:\2\mami\bin\System.Web.WebPages.Razor.dll
+H:\2\mami\bin\WebGrease.dll
+H:\2\mami\bin\EntityFramework.xml
+H:\2\mami\bin\EntityFramework.SqlServer.xml
+H:\2\mami\bin\Microsoft.AI.DependencyCollector.xml
+H:\2\mami\bin\Microsoft.AI.ServerTelemetryChannel.xml
+H:\2\mami\bin\Microsoft.AI.Web.xml
+H:\2\mami\bin\Microsoft.AI.WindowsServer.xml
+H:\2\mami\bin\Microsoft.ApplicationInsights.xml
+H:\2\mami\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\2\mami\bin\System.Web.Helpers.xml
+H:\2\mami\bin\System.Web.Mvc.xml
+H:\2\mami\bin\System.Web.Optimization.xml
+H:\2\mami\bin\System.Web.Razor.xml
+H:\2\mami\bin\System.Web.WebPages.xml
+H:\2\mami\bin\System.Web.WebPages.Deployment.xml
+H:\2\mami\bin\System.Web.WebPages.Razor.xml
+H:\2\mami\bin\Antlr3.Runtime.pdb
+H:\2\mami\bin\Newtonsoft.Json.xml
+H:\2\mami\obj\Debug\mami.csprojResolveAssemblyReference.cache
+H:\2\mami\obj\Debug\mami.dll
+H:\2\mami\obj\Debug\mami.pdb
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2_Restored_temp\2\mami\bin\ApplicationInsights.config
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2_Restored_temp\2\mami\bin\roslyn\csc.exe
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2_Restored_temp\2\mami\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2_Restored_temp\2\mami\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2_Restored_temp\2\mami\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2_Restored_temp\2\mami\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2_Restored_temp\2\mami\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2_Restored_temp\2\mami\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2_Restored_temp\2\mami\bin\roslyn\System.Collections.Immutable.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2_Restored_temp\2\mami\bin\roslyn\System.Reflection.Metadata.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2_Restored_temp\2\mami\bin\roslyn\vbc.exe
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2_Restored_temp\2\mami\bin\roslyn\VBCSCompiler.exe
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2_Restored_temp\2\mami\bin\roslyn\VBCSCompiler.exe.config
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2_Restored_temp\2\mami\bin\mami.dll.config
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2_Restored_temp\2\mami\bin\mami.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2_Restored_temp\2\mami\bin\mami.pdb
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2_Restored_temp\2\mami\bin\Antlr3.Runtime.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2_Restored_temp\2\mami\bin\EntityFramework.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2_Restored_temp\2\mami\bin\EntityFramework.SqlServer.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2_Restored_temp\2\mami\bin\Microsoft.AI.Agent.Intercept.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2_Restored_temp\2\mami\bin\Microsoft.AI.DependencyCollector.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2_Restored_temp\2\mami\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2_Restored_temp\2\mami\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2_Restored_temp\2\mami\bin\Microsoft.AI.Web.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2_Restored_temp\2\mami\bin\Microsoft.AI.WindowsServer.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2_Restored_temp\2\mami\bin\Microsoft.ApplicationInsights.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2_Restored_temp\2\mami\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2_Restored_temp\2\mami\bin\Microsoft.Web.Infrastructure.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2_Restored_temp\2\mami\bin\Newtonsoft.Json.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2_Restored_temp\2\mami\bin\System.Web.Helpers.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2_Restored_temp\2\mami\bin\System.Web.Mvc.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2_Restored_temp\2\mami\bin\System.Web.Optimization.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2_Restored_temp\2\mami\bin\System.Web.Razor.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2_Restored_temp\2\mami\bin\System.Web.WebPages.Deployment.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2_Restored_temp\2\mami\bin\System.Web.WebPages.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2_Restored_temp\2\mami\bin\System.Web.WebPages.Razor.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2_Restored_temp\2\mami\bin\WebGrease.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2_Restored_temp\2\mami\bin\EntityFramework.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2_Restored_temp\2\mami\bin\EntityFramework.SqlServer.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2_Restored_temp\2\mami\bin\Microsoft.AI.DependencyCollector.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2_Restored_temp\2\mami\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2_Restored_temp\2\mami\bin\Microsoft.AI.Web.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2_Restored_temp\2\mami\bin\Microsoft.AI.WindowsServer.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2_Restored_temp\2\mami\bin\Microsoft.ApplicationInsights.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2_Restored_temp\2\mami\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2_Restored_temp\2\mami\bin\System.Web.Helpers.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2_Restored_temp\2\mami\bin\System.Web.Mvc.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2_Restored_temp\2\mami\bin\System.Web.Optimization.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2_Restored_temp\2\mami\bin\System.Web.Razor.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2_Restored_temp\2\mami\bin\System.Web.WebPages.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2_Restored_temp\2\mami\bin\System.Web.WebPages.Deployment.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2_Restored_temp\2\mami\bin\System.Web.WebPages.Razor.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2_Restored_temp\2\mami\bin\Antlr3.Runtime.pdb
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2_Restored_temp\2\mami\bin\Newtonsoft.Json.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2_Restored_temp\2\mami\obj\Debug\mami.csprojResolveAssemblyReference.cache
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2_Restored_temp\2\mami\obj\Debug\mami.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2_Restored_temp\2\mami\obj\Debug\mami.pdb
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2\mami\bin\ClosedXML.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2\mami\bin\DocumentFormat.OpenXml.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2\mami\bin\ExcelNumberFormat.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2\mami\bin\FastMember.Signed.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2\mami\bin\System.IO.FileSystem.Primitives.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2\mami\bin\System.IO.Packaging.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2\mami\bin\ClosedXML.pdb
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2\mami\bin\ClosedXML.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2\mami\bin\DocumentFormat.OpenXml.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\Project\2\mami\bin\ExcelNumberFormat.xml
+C:\Users\User\Desktop\mami_web\mami\bin\ApplicationInsights.config
+C:\Users\User\Desktop\mami_web\mami\bin\roslyn\csc.exe
+C:\Users\User\Desktop\mami_web\mami\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\mami_web\mami\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\mami_web\mami\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\mami_web\mami\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\mami_web\mami\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\mami_web\mami\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\mami_web\mami\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\mami_web\mami\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\mami_web\mami\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\mami_web\mami\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\mami_web\mami\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\mami_web\mami\bin\mami.dll.config
+C:\Users\User\Desktop\mami_web\mami\bin\mami.dll
+C:\Users\User\Desktop\mami_web\mami\bin\mami.pdb
+C:\Users\User\Desktop\mami_web\mami\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\mami_web\mami\bin\ClosedXML.dll
+C:\Users\User\Desktop\mami_web\mami\bin\DocumentFormat.OpenXml.dll
+C:\Users\User\Desktop\mami_web\mami\bin\EntityFramework.dll
+C:\Users\User\Desktop\mami_web\mami\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\mami_web\mami\bin\ExcelNumberFormat.dll
+C:\Users\User\Desktop\mami_web\mami\bin\FastMember.Signed.dll
+C:\Users\User\Desktop\mami_web\mami\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\User\Desktop\mami_web\mami\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\User\Desktop\mami_web\mami\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\User\Desktop\mami_web\mami\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\User\Desktop\mami_web\mami\bin\Microsoft.AI.Web.dll
+C:\Users\User\Desktop\mami_web\mami\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\User\Desktop\mami_web\mami\bin\Microsoft.ApplicationInsights.dll
+C:\Users\User\Desktop\mami_web\mami\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\mami_web\mami\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\mami_web\mami\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\mami_web\mami\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\mami_web\mami\bin\System.IO.Packaging.dll
+C:\Users\User\Desktop\mami_web\mami\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\mami_web\mami\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\mami_web\mami\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\mami_web\mami\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\mami_web\mami\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\mami_web\mami\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\mami_web\mami\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\mami_web\mami\bin\WebGrease.dll
+C:\Users\User\Desktop\mami_web\mami\bin\ClosedXML.pdb
+C:\Users\User\Desktop\mami_web\mami\bin\ClosedXML.xml
+C:\Users\User\Desktop\mami_web\mami\bin\DocumentFormat.OpenXml.xml
+C:\Users\User\Desktop\mami_web\mami\bin\EntityFramework.xml
+C:\Users\User\Desktop\mami_web\mami\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\mami_web\mami\bin\ExcelNumberFormat.xml
+C:\Users\User\Desktop\mami_web\mami\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\User\Desktop\mami_web\mami\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\User\Desktop\mami_web\mami\bin\Microsoft.AI.Web.xml
+C:\Users\User\Desktop\mami_web\mami\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\User\Desktop\mami_web\mami\bin\Microsoft.ApplicationInsights.xml
+C:\Users\User\Desktop\mami_web\mami\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\mami_web\mami\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\mami_web\mami\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\mami_web\mami\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\mami_web\mami\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\mami_web\mami\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\mami_web\mami\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\mami_web\mami\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\mami_web\mami\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\mami_web\mami\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\mami_web\mami\obj\Debug\mami.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\mami_web\mami\obj\Debug\mami.dll
+C:\Users\User\Desktop\mami_web\mami\obj\Debug\mami.pdb
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\mami_web\mami\bin\ApplicationInsights.config
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\mami_web\mami\bin\roslyn\csc.exe
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\mami_web\mami\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\mami_web\mami\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\mami_web\mami\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\mami_web\mami\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\mami_web\mami\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\mami_web\mami\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\mami_web\mami\bin\roslyn\System.Collections.Immutable.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\mami_web\mami\bin\roslyn\System.Reflection.Metadata.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\mami_web\mami\bin\roslyn\vbc.exe
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\mami_web\mami\bin\roslyn\VBCSCompiler.exe
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\mami_web\mami\bin\roslyn\VBCSCompiler.exe.config
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\mami_web\mami\bin\mami.dll.config
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\mami_web\mami\bin\mami.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\mami_web\mami\bin\mami.pdb
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\mami_web\mami\bin\Antlr3.Runtime.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\mami_web\mami\bin\ClosedXML.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\mami_web\mami\bin\DocumentFormat.OpenXml.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\mami_web\mami\bin\EntityFramework.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\mami_web\mami\bin\EntityFramework.SqlServer.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\mami_web\mami\bin\ExcelNumberFormat.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\mami_web\mami\bin\FastMember.Signed.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\mami_web\mami\bin\Microsoft.AI.Agent.Intercept.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\mami_web\mami\bin\Microsoft.AI.DependencyCollector.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\mami_web\mami\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\mami_web\mami\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\mami_web\mami\bin\Microsoft.AI.Web.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\mami_web\mami\bin\Microsoft.AI.WindowsServer.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\mami_web\mami\bin\Microsoft.ApplicationInsights.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\mami_web\mami\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\mami_web\mami\bin\Microsoft.Web.Infrastructure.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\mami_web\mami\bin\Newtonsoft.Json.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\mami_web\mami\bin\System.IO.FileSystem.Primitives.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\mami_web\mami\bin\System.IO.Packaging.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\mami_web\mami\bin\System.Web.Helpers.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\mami_web\mami\bin\System.Web.Mvc.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\mami_web\mami\bin\System.Web.Optimization.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\mami_web\mami\bin\System.Web.Razor.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\mami_web\mami\bin\System.Web.WebPages.Deployment.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\mami_web\mami\bin\System.Web.WebPages.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\mami_web\mami\bin\System.Web.WebPages.Razor.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\mami_web\mami\bin\WebGrease.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\mami_web\mami\bin\ClosedXML.pdb
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\mami_web\mami\bin\ClosedXML.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\mami_web\mami\bin\DocumentFormat.OpenXml.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\mami_web\mami\bin\EntityFramework.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\mami_web\mami\bin\EntityFramework.SqlServer.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\mami_web\mami\bin\ExcelNumberFormat.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\mami_web\mami\bin\Microsoft.AI.DependencyCollector.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\mami_web\mami\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\mami_web\mami\bin\Microsoft.AI.Web.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\mami_web\mami\bin\Microsoft.AI.WindowsServer.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\mami_web\mami\bin\Microsoft.ApplicationInsights.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\mami_web\mami\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\mami_web\mami\bin\System.Web.Helpers.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\mami_web\mami\bin\System.Web.Mvc.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\mami_web\mami\bin\System.Web.Optimization.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\mami_web\mami\bin\System.Web.Razor.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\mami_web\mami\bin\System.Web.WebPages.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\mami_web\mami\bin\System.Web.WebPages.Deployment.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\mami_web\mami\bin\System.Web.WebPages.Razor.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\mami_web\mami\bin\Antlr3.Runtime.pdb
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\mami_web\mami\bin\Newtonsoft.Json.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\mami_web\mami\obj\Debug\mami.csprojResolveAssemblyReference.cache
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\mami_web\mami\obj\Debug\mami.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\mami_web\mami\obj\Debug\mami.pdb
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\mami_web\mami\bin\ApplicationInsights.config
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\mami_web\mami\bin\roslyn\csc.exe
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\mami_web\mami\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\mami_web\mami\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\mami_web\mami\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\mami_web\mami\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\mami_web\mami\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\mami_web\mami\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\mami_web\mami\bin\roslyn\System.Collections.Immutable.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\mami_web\mami\bin\roslyn\System.Reflection.Metadata.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\mami_web\mami\bin\roslyn\vbc.exe
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\mami_web\mami\bin\roslyn\VBCSCompiler.exe
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\mami_web\mami\bin\roslyn\VBCSCompiler.exe.config
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\mami_web\mami\bin\mami.dll.config
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\mami_web\mami\bin\mami.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\mami_web\mami\bin\mami.pdb
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\mami_web\mami\bin\Antlr3.Runtime.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\mami_web\mami\bin\ClosedXML.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\mami_web\mami\bin\DocumentFormat.OpenXml.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\mami_web\mami\bin\EntityFramework.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\mami_web\mami\bin\EntityFramework.SqlServer.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\mami_web\mami\bin\ExcelNumberFormat.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\mami_web\mami\bin\FastMember.Signed.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\mami_web\mami\bin\Microsoft.AI.Agent.Intercept.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\mami_web\mami\bin\Microsoft.AI.DependencyCollector.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\mami_web\mami\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\mami_web\mami\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\mami_web\mami\bin\Microsoft.AI.Web.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\mami_web\mami\bin\Microsoft.AI.WindowsServer.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\mami_web\mami\bin\Microsoft.ApplicationInsights.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\mami_web\mami\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\mami_web\mami\bin\Microsoft.Web.Infrastructure.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\mami_web\mami\bin\Newtonsoft.Json.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\mami_web\mami\bin\System.IO.FileSystem.Primitives.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\mami_web\mami\bin\System.IO.Packaging.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\mami_web\mami\bin\System.Web.Helpers.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\mami_web\mami\bin\System.Web.Mvc.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\mami_web\mami\bin\System.Web.Optimization.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\mami_web\mami\bin\System.Web.Razor.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\mami_web\mami\bin\System.Web.WebPages.Deployment.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\mami_web\mami\bin\System.Web.WebPages.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\mami_web\mami\bin\System.Web.WebPages.Razor.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\mami_web\mami\bin\WebGrease.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\mami_web\mami\bin\ClosedXML.pdb
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\mami_web\mami\bin\ClosedXML.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\mami_web\mami\bin\DocumentFormat.OpenXml.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\mami_web\mami\bin\EntityFramework.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\mami_web\mami\bin\EntityFramework.SqlServer.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\mami_web\mami\bin\ExcelNumberFormat.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\mami_web\mami\bin\Microsoft.AI.DependencyCollector.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\mami_web\mami\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\mami_web\mami\bin\Microsoft.AI.Web.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\mami_web\mami\bin\Microsoft.AI.WindowsServer.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\mami_web\mami\bin\Microsoft.ApplicationInsights.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\mami_web\mami\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\mami_web\mami\bin\System.Web.Helpers.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\mami_web\mami\bin\System.Web.Mvc.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\mami_web\mami\bin\System.Web.Optimization.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\mami_web\mami\bin\System.Web.Razor.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\mami_web\mami\bin\System.Web.WebPages.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\mami_web\mami\bin\System.Web.WebPages.Deployment.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\mami_web\mami\bin\System.Web.WebPages.Razor.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\mami_web\mami\bin\Antlr3.Runtime.pdb
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\mami_web\mami\bin\Newtonsoft.Json.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\mami_web\mami\obj\Debug\mami.csprojResolveAssemblyReference.cache
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\mami_web\mami\obj\Debug\mami.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\mami_web\mami\obj\Debug\mami.pdb
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\2\mami_web\mami\bin\ApplicationInsights.config
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\2\mami_web\mami\bin\roslyn\csc.exe
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\2\mami_web\mami\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\2\mami_web\mami\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\2\mami_web\mami\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\2\mami_web\mami\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\2\mami_web\mami\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\2\mami_web\mami\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\2\mami_web\mami\bin\roslyn\System.Collections.Immutable.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\2\mami_web\mami\bin\roslyn\System.Reflection.Metadata.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\2\mami_web\mami\bin\roslyn\vbc.exe
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\2\mami_web\mami\bin\roslyn\VBCSCompiler.exe
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\2\mami_web\mami\bin\roslyn\VBCSCompiler.exe.config
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\2\mami_web\mami\bin\mami.dll.config
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\2\mami_web\mami\bin\mami.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\2\mami_web\mami\bin\mami.pdb
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\2\mami_web\mami\bin\Antlr3.Runtime.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\2\mami_web\mami\bin\ClosedXML.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\2\mami_web\mami\bin\DocumentFormat.OpenXml.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\2\mami_web\mami\bin\EntityFramework.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\2\mami_web\mami\bin\EntityFramework.SqlServer.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\2\mami_web\mami\bin\ExcelNumberFormat.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\2\mami_web\mami\bin\FastMember.Signed.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\2\mami_web\mami\bin\Microsoft.AI.Agent.Intercept.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\2\mami_web\mami\bin\Microsoft.AI.DependencyCollector.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\2\mami_web\mami\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\2\mami_web\mami\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\2\mami_web\mami\bin\Microsoft.AI.Web.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\2\mami_web\mami\bin\Microsoft.AI.WindowsServer.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\2\mami_web\mami\bin\Microsoft.ApplicationInsights.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\2\mami_web\mami\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\2\mami_web\mami\bin\Microsoft.Web.Infrastructure.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\2\mami_web\mami\bin\Newtonsoft.Json.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\2\mami_web\mami\bin\System.IO.FileSystem.Primitives.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\2\mami_web\mami\bin\System.IO.Packaging.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\2\mami_web\mami\bin\System.Web.Helpers.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\2\mami_web\mami\bin\System.Web.Mvc.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\2\mami_web\mami\bin\System.Web.Optimization.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\2\mami_web\mami\bin\System.Web.Razor.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\2\mami_web\mami\bin\System.Web.WebPages.Deployment.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\2\mami_web\mami\bin\System.Web.WebPages.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\2\mami_web\mami\bin\System.Web.WebPages.Razor.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\2\mami_web\mami\bin\WebGrease.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\2\mami_web\mami\bin\ClosedXML.pdb
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\2\mami_web\mami\bin\ClosedXML.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\2\mami_web\mami\bin\DocumentFormat.OpenXml.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\2\mami_web\mami\bin\EntityFramework.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\2\mami_web\mami\bin\EntityFramework.SqlServer.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\2\mami_web\mami\bin\ExcelNumberFormat.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\2\mami_web\mami\bin\Microsoft.AI.DependencyCollector.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\2\mami_web\mami\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\2\mami_web\mami\bin\Microsoft.AI.Web.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\2\mami_web\mami\bin\Microsoft.AI.WindowsServer.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\2\mami_web\mami\bin\Microsoft.ApplicationInsights.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\2\mami_web\mami\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\2\mami_web\mami\bin\System.Web.Helpers.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\2\mami_web\mami\bin\System.Web.Mvc.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\2\mami_web\mami\bin\System.Web.Optimization.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\2\mami_web\mami\bin\System.Web.Razor.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\2\mami_web\mami\bin\System.Web.WebPages.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\2\mami_web\mami\bin\System.Web.WebPages.Deployment.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\2\mami_web\mami\bin\System.Web.WebPages.Razor.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\2\mami_web\mami\bin\Antlr3.Runtime.pdb
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\2\mami_web\mami\bin\Newtonsoft.Json.xml
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\2\mami_web\mami\obj\Debug\mami.csprojResolveAssemblyReference.cache
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\2\mami_web\mami\obj\Debug\mami.dll
+E:\STORAGE W 8\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\latest\2\mami_web\mami\obj\Debug\mami.pdb
+E:\BACKUP\ERA_w\mami\bin\ApplicationInsights.config
+E:\BACKUP\ERA_w\mami\bin\roslyn\csc.exe
+E:\BACKUP\ERA_w\mami\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\BACKUP\ERA_w\mami\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\BACKUP\ERA_w\mami\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\BACKUP\ERA_w\mami\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\BACKUP\ERA_w\mami\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\BACKUP\ERA_w\mami\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\BACKUP\ERA_w\mami\bin\roslyn\System.Collections.Immutable.dll
+E:\BACKUP\ERA_w\mami\bin\roslyn\System.Reflection.Metadata.dll
+E:\BACKUP\ERA_w\mami\bin\roslyn\vbc.exe
+E:\BACKUP\ERA_w\mami\bin\roslyn\VBCSCompiler.exe
+E:\BACKUP\ERA_w\mami\bin\roslyn\VBCSCompiler.exe.config
+E:\BACKUP\ERA_w\mami\bin\mami.dll.config
+E:\BACKUP\ERA_w\mami\bin\mami.dll
+E:\BACKUP\ERA_w\mami\bin\mami.pdb
+E:\BACKUP\ERA_w\mami\bin\Antlr3.Runtime.dll
+E:\BACKUP\ERA_w\mami\bin\ClosedXML.dll
+E:\BACKUP\ERA_w\mami\bin\DocumentFormat.OpenXml.dll
+E:\BACKUP\ERA_w\mami\bin\EntityFramework.dll
+E:\BACKUP\ERA_w\mami\bin\EntityFramework.SqlServer.dll
+E:\BACKUP\ERA_w\mami\bin\ExcelNumberFormat.dll
+E:\BACKUP\ERA_w\mami\bin\FastMember.Signed.dll
+E:\BACKUP\ERA_w\mami\bin\Microsoft.AI.Agent.Intercept.dll
+E:\BACKUP\ERA_w\mami\bin\Microsoft.AI.DependencyCollector.dll
+E:\BACKUP\ERA_w\mami\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\BACKUP\ERA_w\mami\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\BACKUP\ERA_w\mami\bin\Microsoft.AI.Web.dll
+E:\BACKUP\ERA_w\mami\bin\Microsoft.AI.WindowsServer.dll
+E:\BACKUP\ERA_w\mami\bin\Microsoft.ApplicationInsights.dll
+E:\BACKUP\ERA_w\mami\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\BACKUP\ERA_w\mami\bin\Microsoft.Web.Infrastructure.dll
+E:\BACKUP\ERA_w\mami\bin\Newtonsoft.Json.dll
+E:\BACKUP\ERA_w\mami\bin\System.IO.FileSystem.Primitives.dll
+E:\BACKUP\ERA_w\mami\bin\System.IO.Packaging.dll
+E:\BACKUP\ERA_w\mami\bin\System.Web.Helpers.dll
+E:\BACKUP\ERA_w\mami\bin\System.Web.Mvc.dll
+E:\BACKUP\ERA_w\mami\bin\System.Web.Optimization.dll
+E:\BACKUP\ERA_w\mami\bin\System.Web.Razor.dll
+E:\BACKUP\ERA_w\mami\bin\System.Web.WebPages.Deployment.dll
+E:\BACKUP\ERA_w\mami\bin\System.Web.WebPages.dll
+E:\BACKUP\ERA_w\mami\bin\System.Web.WebPages.Razor.dll
+E:\BACKUP\ERA_w\mami\bin\WebGrease.dll
+E:\BACKUP\ERA_w\mami\bin\ClosedXML.pdb
+E:\BACKUP\ERA_w\mami\bin\ClosedXML.xml
+E:\BACKUP\ERA_w\mami\bin\DocumentFormat.OpenXml.xml
+E:\BACKUP\ERA_w\mami\bin\EntityFramework.xml
+E:\BACKUP\ERA_w\mami\bin\EntityFramework.SqlServer.xml
+E:\BACKUP\ERA_w\mami\bin\ExcelNumberFormat.xml
+E:\BACKUP\ERA_w\mami\bin\Microsoft.AI.DependencyCollector.xml
+E:\BACKUP\ERA_w\mami\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\BACKUP\ERA_w\mami\bin\Microsoft.AI.Web.xml
+E:\BACKUP\ERA_w\mami\bin\Microsoft.AI.WindowsServer.xml
+E:\BACKUP\ERA_w\mami\bin\Microsoft.ApplicationInsights.xml
+E:\BACKUP\ERA_w\mami\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\BACKUP\ERA_w\mami\bin\System.Web.Helpers.xml
+E:\BACKUP\ERA_w\mami\bin\System.Web.Mvc.xml
+E:\BACKUP\ERA_w\mami\bin\System.Web.Optimization.xml
+E:\BACKUP\ERA_w\mami\bin\System.Web.Razor.xml
+E:\BACKUP\ERA_w\mami\bin\System.Web.WebPages.xml
+E:\BACKUP\ERA_w\mami\bin\System.Web.WebPages.Deployment.xml
+E:\BACKUP\ERA_w\mami\bin\System.Web.WebPages.Razor.xml
+E:\BACKUP\ERA_w\mami\bin\Antlr3.Runtime.pdb
+E:\BACKUP\ERA_w\mami\bin\Newtonsoft.Json.xml
+E:\BACKUP\ERA_w\mami\obj\Debug\mami.csprojResolveAssemblyReference.cache
+E:\BACKUP\ERA_w\mami\obj\Debug\mami.dll
+E:\BACKUP\ERA_w\mami\obj\Debug\mami.pdb
+E:\BACKUP\ERA_under_use\mami\bin\ApplicationInsights.config
+E:\BACKUP\ERA_under_use\mami\bin\roslyn\csc.exe
+E:\BACKUP\ERA_under_use\mami\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\BACKUP\ERA_under_use\mami\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\BACKUP\ERA_under_use\mami\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\BACKUP\ERA_under_use\mami\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\BACKUP\ERA_under_use\mami\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\BACKUP\ERA_under_use\mami\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\BACKUP\ERA_under_use\mami\bin\roslyn\System.Collections.Immutable.dll
+E:\BACKUP\ERA_under_use\mami\bin\roslyn\System.Reflection.Metadata.dll
+E:\BACKUP\ERA_under_use\mami\bin\roslyn\vbc.exe
+E:\BACKUP\ERA_under_use\mami\bin\roslyn\VBCSCompiler.exe
+E:\BACKUP\ERA_under_use\mami\bin\roslyn\VBCSCompiler.exe.config
+E:\BACKUP\ERA_under_use\mami\bin\mami.dll.config
+E:\BACKUP\ERA_under_use\mami\bin\mami.dll
+E:\BACKUP\ERA_under_use\mami\bin\mami.pdb
+E:\BACKUP\ERA_under_use\mami\bin\Antlr3.Runtime.dll
+E:\BACKUP\ERA_under_use\mami\bin\ClosedXML.dll
+E:\BACKUP\ERA_under_use\mami\bin\DocumentFormat.OpenXml.dll
+E:\BACKUP\ERA_under_use\mami\bin\EntityFramework.dll
+E:\BACKUP\ERA_under_use\mami\bin\EntityFramework.SqlServer.dll
+E:\BACKUP\ERA_under_use\mami\bin\ExcelNumberFormat.dll
+E:\BACKUP\ERA_under_use\mami\bin\FastMember.Signed.dll
+E:\BACKUP\ERA_under_use\mami\bin\Microsoft.AI.Agent.Intercept.dll
+E:\BACKUP\ERA_under_use\mami\bin\Microsoft.AI.DependencyCollector.dll
+E:\BACKUP\ERA_under_use\mami\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\BACKUP\ERA_under_use\mami\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\BACKUP\ERA_under_use\mami\bin\Microsoft.AI.Web.dll
+E:\BACKUP\ERA_under_use\mami\bin\Microsoft.AI.WindowsServer.dll
+E:\BACKUP\ERA_under_use\mami\bin\Microsoft.ApplicationInsights.dll
+E:\BACKUP\ERA_under_use\mami\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\BACKUP\ERA_under_use\mami\bin\Microsoft.Web.Infrastructure.dll
+E:\BACKUP\ERA_under_use\mami\bin\Newtonsoft.Json.dll
+E:\BACKUP\ERA_under_use\mami\bin\System.IO.FileSystem.Primitives.dll
+E:\BACKUP\ERA_under_use\mami\bin\System.IO.Packaging.dll
+E:\BACKUP\ERA_under_use\mami\bin\System.Web.Helpers.dll
+E:\BACKUP\ERA_under_use\mami\bin\System.Web.Mvc.dll
+E:\BACKUP\ERA_under_use\mami\bin\System.Web.Optimization.dll
+E:\BACKUP\ERA_under_use\mami\bin\System.Web.Razor.dll
+E:\BACKUP\ERA_under_use\mami\bin\System.Web.WebPages.Deployment.dll
+E:\BACKUP\ERA_under_use\mami\bin\System.Web.WebPages.dll
+E:\BACKUP\ERA_under_use\mami\bin\System.Web.WebPages.Razor.dll
+E:\BACKUP\ERA_under_use\mami\bin\WebGrease.dll
+E:\BACKUP\ERA_under_use\mami\bin\ClosedXML.pdb
+E:\BACKUP\ERA_under_use\mami\bin\ClosedXML.xml
+E:\BACKUP\ERA_under_use\mami\bin\DocumentFormat.OpenXml.xml
+E:\BACKUP\ERA_under_use\mami\bin\EntityFramework.xml
+E:\BACKUP\ERA_under_use\mami\bin\EntityFramework.SqlServer.xml
+E:\BACKUP\ERA_under_use\mami\bin\ExcelNumberFormat.xml
+E:\BACKUP\ERA_under_use\mami\bin\Microsoft.AI.DependencyCollector.xml
+E:\BACKUP\ERA_under_use\mami\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\BACKUP\ERA_under_use\mami\bin\Microsoft.AI.Web.xml
+E:\BACKUP\ERA_under_use\mami\bin\Microsoft.AI.WindowsServer.xml
+E:\BACKUP\ERA_under_use\mami\bin\Microsoft.ApplicationInsights.xml
+E:\BACKUP\ERA_under_use\mami\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\BACKUP\ERA_under_use\mami\bin\System.Web.Helpers.xml
+E:\BACKUP\ERA_under_use\mami\bin\System.Web.Mvc.xml
+E:\BACKUP\ERA_under_use\mami\bin\System.Web.Optimization.xml
+E:\BACKUP\ERA_under_use\mami\bin\System.Web.Razor.xml
+E:\BACKUP\ERA_under_use\mami\bin\System.Web.WebPages.xml
+E:\BACKUP\ERA_under_use\mami\bin\System.Web.WebPages.Deployment.xml
+E:\BACKUP\ERA_under_use\mami\bin\System.Web.WebPages.Razor.xml
+E:\BACKUP\ERA_under_use\mami\bin\Antlr3.Runtime.pdb
+E:\BACKUP\ERA_under_use\mami\bin\Newtonsoft.Json.xml
+E:\BACKUP\ERA_under_use\mami\obj\Debug\mami.csprojResolveAssemblyReference.cache
+E:\BACKUP\ERA_under_use\mami\obj\Debug\mami.dll
+E:\BACKUP\ERA_under_use\mami\obj\Debug\mami.pdb
+E:\STORAGE W 10\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\ERA_under_use\mami\bin\ApplicationInsights.config
+E:\STORAGE W 10\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\ERA_under_use\mami\bin\roslyn\csc.exe
+E:\STORAGE W 10\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\ERA_under_use\mami\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\STORAGE W 10\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\ERA_under_use\mami\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\STORAGE W 10\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\ERA_under_use\mami\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\STORAGE W 10\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\ERA_under_use\mami\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\STORAGE W 10\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\ERA_under_use\mami\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\STORAGE W 10\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\ERA_under_use\mami\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\STORAGE W 10\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\ERA_under_use\mami\bin\roslyn\System.Collections.Immutable.dll
+E:\STORAGE W 10\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\ERA_under_use\mami\bin\roslyn\System.Reflection.Metadata.dll
+E:\STORAGE W 10\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\ERA_under_use\mami\bin\roslyn\vbc.exe
+E:\STORAGE W 10\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\ERA_under_use\mami\bin\roslyn\VBCSCompiler.exe
+E:\STORAGE W 10\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\ERA_under_use\mami\bin\roslyn\VBCSCompiler.exe.config
+E:\STORAGE W 10\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\ERA_under_use\mami\bin\mami.dll.config
+E:\STORAGE W 10\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\ERA_under_use\mami\bin\mami.dll
+E:\STORAGE W 10\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\ERA_under_use\mami\bin\mami.pdb
+E:\STORAGE W 10\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\ERA_under_use\mami\bin\Antlr3.Runtime.dll
+E:\STORAGE W 10\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\ERA_under_use\mami\bin\ClosedXML.dll
+E:\STORAGE W 10\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\ERA_under_use\mami\bin\DocumentFormat.OpenXml.dll
+E:\STORAGE W 10\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\ERA_under_use\mami\bin\EntityFramework.dll
+E:\STORAGE W 10\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\ERA_under_use\mami\bin\EntityFramework.SqlServer.dll
+E:\STORAGE W 10\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\ERA_under_use\mami\bin\ExcelNumberFormat.dll
+E:\STORAGE W 10\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\ERA_under_use\mami\bin\FastMember.Signed.dll
+E:\STORAGE W 10\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\ERA_under_use\mami\bin\Microsoft.AI.Agent.Intercept.dll
+E:\STORAGE W 10\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\ERA_under_use\mami\bin\Microsoft.AI.DependencyCollector.dll
+E:\STORAGE W 10\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\ERA_under_use\mami\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\STORAGE W 10\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\ERA_under_use\mami\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\STORAGE W 10\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\ERA_under_use\mami\bin\Microsoft.AI.Web.dll
+E:\STORAGE W 10\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\ERA_under_use\mami\bin\Microsoft.AI.WindowsServer.dll
+E:\STORAGE W 10\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\ERA_under_use\mami\bin\Microsoft.ApplicationInsights.dll
+E:\STORAGE W 10\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\ERA_under_use\mami\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\STORAGE W 10\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\ERA_under_use\mami\bin\Microsoft.Web.Infrastructure.dll
+E:\STORAGE W 10\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\ERA_under_use\mami\bin\Newtonsoft.Json.dll
+E:\STORAGE W 10\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\ERA_under_use\mami\bin\System.IO.FileSystem.Primitives.dll
+E:\STORAGE W 10\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\ERA_under_use\mami\bin\System.IO.Packaging.dll
+E:\STORAGE W 10\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\ERA_under_use\mami\bin\System.Web.Helpers.dll
+E:\STORAGE W 10\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\ERA_under_use\mami\bin\System.Web.Mvc.dll
+E:\STORAGE W 10\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\ERA_under_use\mami\bin\System.Web.Optimization.dll
+E:\STORAGE W 10\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\ERA_under_use\mami\bin\System.Web.Razor.dll
+E:\STORAGE W 10\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\ERA_under_use\mami\bin\System.Web.WebPages.Deployment.dll
+E:\STORAGE W 10\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\ERA_under_use\mami\bin\System.Web.WebPages.dll
+E:\STORAGE W 10\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\ERA_under_use\mami\bin\System.Web.WebPages.Razor.dll
+E:\STORAGE W 10\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\ERA_under_use\mami\bin\WebGrease.dll
+E:\STORAGE W 10\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\ERA_under_use\mami\bin\ClosedXML.pdb
+E:\STORAGE W 10\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\ERA_under_use\mami\bin\ClosedXML.xml
+E:\STORAGE W 10\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\ERA_under_use\mami\bin\DocumentFormat.OpenXml.xml
+E:\STORAGE W 10\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\ERA_under_use\mami\bin\EntityFramework.xml
+E:\STORAGE W 10\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\ERA_under_use\mami\bin\EntityFramework.SqlServer.xml
+E:\STORAGE W 10\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\ERA_under_use\mami\bin\ExcelNumberFormat.xml
+E:\STORAGE W 10\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\ERA_under_use\mami\bin\Microsoft.AI.DependencyCollector.xml
+E:\STORAGE W 10\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\ERA_under_use\mami\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\STORAGE W 10\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\ERA_under_use\mami\bin\Microsoft.AI.Web.xml
+E:\STORAGE W 10\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\ERA_under_use\mami\bin\Microsoft.AI.WindowsServer.xml
+E:\STORAGE W 10\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\ERA_under_use\mami\bin\Microsoft.ApplicationInsights.xml
+E:\STORAGE W 10\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\ERA_under_use\mami\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\STORAGE W 10\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\ERA_under_use\mami\bin\System.Web.Helpers.xml
+E:\STORAGE W 10\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\ERA_under_use\mami\bin\System.Web.Mvc.xml
+E:\STORAGE W 10\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\ERA_under_use\mami\bin\System.Web.Optimization.xml
+E:\STORAGE W 10\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\ERA_under_use\mami\bin\System.Web.Razor.xml
+E:\STORAGE W 10\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\ERA_under_use\mami\bin\System.Web.WebPages.xml
+E:\STORAGE W 10\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\ERA_under_use\mami\bin\System.Web.WebPages.Deployment.xml
+E:\STORAGE W 10\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\ERA_under_use\mami\bin\System.Web.WebPages.Razor.xml
+E:\STORAGE W 10\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\ERA_under_use\mami\bin\Antlr3.Runtime.pdb
+E:\STORAGE W 10\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\ERA_under_use\mami\bin\Newtonsoft.Json.xml
+E:\STORAGE W 10\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\ERA_under_use\mami\obj\Debug\mami.csprojResolveAssemblyReference.cache
+E:\STORAGE W 10\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\ERA_under_use\mami\obj\Debug\mami.csproj.CoreCompileInputs.cache
+E:\STORAGE W 10\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\ERA_under_use\mami\obj\Debug\mami.csproj.CopyComplete
+E:\STORAGE W 10\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\ERA_under_use\mami\obj\Debug\mami.dll
+E:\STORAGE W 10\SENTINEL\MY PROGS\MAMI\ERA App\2_Ahad_Updated\ERA_under_use\mami\obj\Debug\mami.pdb
+E:\ERA_under_use_1\mami\bin\ApplicationInsights.config
+E:\ERA_under_use_1\mami\bin\roslyn\csc.exe
+E:\ERA_under_use_1\mami\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ERA_under_use_1\mami\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ERA_under_use_1\mami\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ERA_under_use_1\mami\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ERA_under_use_1\mami\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ERA_under_use_1\mami\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ERA_under_use_1\mami\bin\roslyn\System.Collections.Immutable.dll
+E:\ERA_under_use_1\mami\bin\roslyn\System.Reflection.Metadata.dll
+E:\ERA_under_use_1\mami\bin\roslyn\vbc.exe
+E:\ERA_under_use_1\mami\bin\roslyn\VBCSCompiler.exe
+E:\ERA_under_use_1\mami\bin\roslyn\VBCSCompiler.exe.config
+E:\ERA_under_use_1\mami\bin\mami.dll.config
+E:\ERA_under_use_1\mami\bin\mami.dll
+E:\ERA_under_use_1\mami\bin\mami.pdb
+E:\ERA_under_use_1\mami\bin\Antlr3.Runtime.dll
+E:\ERA_under_use_1\mami\bin\ClosedXML.dll
+E:\ERA_under_use_1\mami\bin\DocumentFormat.OpenXml.dll
+E:\ERA_under_use_1\mami\bin\EntityFramework.dll
+E:\ERA_under_use_1\mami\bin\EntityFramework.SqlServer.dll
+E:\ERA_under_use_1\mami\bin\ExcelNumberFormat.dll
+E:\ERA_under_use_1\mami\bin\FastMember.Signed.dll
+E:\ERA_under_use_1\mami\bin\Microsoft.AI.Agent.Intercept.dll
+E:\ERA_under_use_1\mami\bin\Microsoft.AI.DependencyCollector.dll
+E:\ERA_under_use_1\mami\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\ERA_under_use_1\mami\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\ERA_under_use_1\mami\bin\Microsoft.AI.Web.dll
+E:\ERA_under_use_1\mami\bin\Microsoft.AI.WindowsServer.dll
+E:\ERA_under_use_1\mami\bin\Microsoft.ApplicationInsights.dll
+E:\ERA_under_use_1\mami\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ERA_under_use_1\mami\bin\Microsoft.Web.Infrastructure.dll
+E:\ERA_under_use_1\mami\bin\Newtonsoft.Json.dll
+E:\ERA_under_use_1\mami\bin\System.IO.FileSystem.Primitives.dll
+E:\ERA_under_use_1\mami\bin\System.IO.Packaging.dll
+E:\ERA_under_use_1\mami\bin\System.Web.Helpers.dll
+E:\ERA_under_use_1\mami\bin\System.Web.Mvc.dll
+E:\ERA_under_use_1\mami\bin\System.Web.Optimization.dll
+E:\ERA_under_use_1\mami\bin\System.Web.Razor.dll
+E:\ERA_under_use_1\mami\bin\System.Web.WebPages.Deployment.dll
+E:\ERA_under_use_1\mami\bin\System.Web.WebPages.dll
+E:\ERA_under_use_1\mami\bin\System.Web.WebPages.Razor.dll
+E:\ERA_under_use_1\mami\bin\WebGrease.dll
+E:\ERA_under_use_1\mami\bin\ClosedXML.pdb
+E:\ERA_under_use_1\mami\bin\ClosedXML.xml
+E:\ERA_under_use_1\mami\bin\DocumentFormat.OpenXml.xml
+E:\ERA_under_use_1\mami\bin\EntityFramework.xml
+E:\ERA_under_use_1\mami\bin\EntityFramework.SqlServer.xml
+E:\ERA_under_use_1\mami\bin\ExcelNumberFormat.xml
+E:\ERA_under_use_1\mami\bin\Microsoft.AI.DependencyCollector.xml
+E:\ERA_under_use_1\mami\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\ERA_under_use_1\mami\bin\Microsoft.AI.Web.xml
+E:\ERA_under_use_1\mami\bin\Microsoft.AI.WindowsServer.xml
+E:\ERA_under_use_1\mami\bin\Microsoft.ApplicationInsights.xml
+E:\ERA_under_use_1\mami\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ERA_under_use_1\mami\bin\System.Web.Helpers.xml
+E:\ERA_under_use_1\mami\bin\System.Web.Mvc.xml
+E:\ERA_under_use_1\mami\bin\System.Web.Optimization.xml
+E:\ERA_under_use_1\mami\bin\System.Web.Razor.xml
+E:\ERA_under_use_1\mami\bin\System.Web.WebPages.xml
+E:\ERA_under_use_1\mami\bin\System.Web.WebPages.Deployment.xml
+E:\ERA_under_use_1\mami\bin\System.Web.WebPages.Razor.xml
+E:\ERA_under_use_1\mami\bin\Antlr3.Runtime.pdb
+E:\ERA_under_use_1\mami\bin\Newtonsoft.Json.xml
+E:\ERA_under_use_1\mami\obj\Debug\mami.csprojResolveAssemblyReference.cache
+E:\ERA_under_use_1\mami\obj\Debug\mami.dll
+E:\ERA_under_use_1\mami\obj\Debug\mami.pdb
+E:\ERA_under_use_10.01.2018\mami\bin\ApplicationInsights.config
+E:\ERA_under_use_10.01.2018\mami\bin\roslyn\csc.exe
+E:\ERA_under_use_10.01.2018\mami\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ERA_under_use_10.01.2018\mami\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ERA_under_use_10.01.2018\mami\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ERA_under_use_10.01.2018\mami\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ERA_under_use_10.01.2018\mami\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ERA_under_use_10.01.2018\mami\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ERA_under_use_10.01.2018\mami\bin\roslyn\System.Collections.Immutable.dll
+E:\ERA_under_use_10.01.2018\mami\bin\roslyn\System.Reflection.Metadata.dll
+E:\ERA_under_use_10.01.2018\mami\bin\roslyn\vbc.exe
+E:\ERA_under_use_10.01.2018\mami\bin\roslyn\VBCSCompiler.exe
+E:\ERA_under_use_10.01.2018\mami\bin\roslyn\VBCSCompiler.exe.config
+E:\ERA_under_use_10.01.2018\mami\bin\mami.dll.config
+E:\ERA_under_use_10.01.2018\mami\bin\mami.dll
+E:\ERA_under_use_10.01.2018\mami\bin\mami.pdb
+E:\ERA_under_use_10.01.2018\mami\bin\Antlr3.Runtime.dll
+E:\ERA_under_use_10.01.2018\mami\bin\ClosedXML.dll
+E:\ERA_under_use_10.01.2018\mami\bin\DocumentFormat.OpenXml.dll
+E:\ERA_under_use_10.01.2018\mami\bin\EntityFramework.dll
+E:\ERA_under_use_10.01.2018\mami\bin\EntityFramework.SqlServer.dll
+E:\ERA_under_use_10.01.2018\mami\bin\ExcelNumberFormat.dll
+E:\ERA_under_use_10.01.2018\mami\bin\FastMember.Signed.dll
+E:\ERA_under_use_10.01.2018\mami\bin\Microsoft.AI.Agent.Intercept.dll
+E:\ERA_under_use_10.01.2018\mami\bin\Microsoft.AI.DependencyCollector.dll
+E:\ERA_under_use_10.01.2018\mami\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\ERA_under_use_10.01.2018\mami\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\ERA_under_use_10.01.2018\mami\bin\Microsoft.AI.Web.dll
+E:\ERA_under_use_10.01.2018\mami\bin\Microsoft.AI.WindowsServer.dll
+E:\ERA_under_use_10.01.2018\mami\bin\Microsoft.ApplicationInsights.dll
+E:\ERA_under_use_10.01.2018\mami\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ERA_under_use_10.01.2018\mami\bin\Microsoft.Web.Infrastructure.dll
+E:\ERA_under_use_10.01.2018\mami\bin\Newtonsoft.Json.dll
+E:\ERA_under_use_10.01.2018\mami\bin\System.IO.FileSystem.Primitives.dll
+E:\ERA_under_use_10.01.2018\mami\bin\System.IO.Packaging.dll
+E:\ERA_under_use_10.01.2018\mami\bin\System.Web.Helpers.dll
+E:\ERA_under_use_10.01.2018\mami\bin\System.Web.Mvc.dll
+E:\ERA_under_use_10.01.2018\mami\bin\System.Web.Optimization.dll
+E:\ERA_under_use_10.01.2018\mami\bin\System.Web.Razor.dll
+E:\ERA_under_use_10.01.2018\mami\bin\System.Web.WebPages.Deployment.dll
+E:\ERA_under_use_10.01.2018\mami\bin\System.Web.WebPages.dll
+E:\ERA_under_use_10.01.2018\mami\bin\System.Web.WebPages.Razor.dll
+E:\ERA_under_use_10.01.2018\mami\bin\WebGrease.dll
+E:\ERA_under_use_10.01.2018\mami\bin\ClosedXML.pdb
+E:\ERA_under_use_10.01.2018\mami\bin\ClosedXML.xml
+E:\ERA_under_use_10.01.2018\mami\bin\DocumentFormat.OpenXml.xml
+E:\ERA_under_use_10.01.2018\mami\bin\EntityFramework.xml
+E:\ERA_under_use_10.01.2018\mami\bin\EntityFramework.SqlServer.xml
+E:\ERA_under_use_10.01.2018\mami\bin\ExcelNumberFormat.xml
+E:\ERA_under_use_10.01.2018\mami\bin\Microsoft.AI.DependencyCollector.xml
+E:\ERA_under_use_10.01.2018\mami\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\ERA_under_use_10.01.2018\mami\bin\Microsoft.AI.Web.xml
+E:\ERA_under_use_10.01.2018\mami\bin\Microsoft.AI.WindowsServer.xml
+E:\ERA_under_use_10.01.2018\mami\bin\Microsoft.ApplicationInsights.xml
+E:\ERA_under_use_10.01.2018\mami\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ERA_under_use_10.01.2018\mami\bin\System.Web.Helpers.xml
+E:\ERA_under_use_10.01.2018\mami\bin\System.Web.Mvc.xml
+E:\ERA_under_use_10.01.2018\mami\bin\System.Web.Optimization.xml
+E:\ERA_under_use_10.01.2018\mami\bin\System.Web.Razor.xml
+E:\ERA_under_use_10.01.2018\mami\bin\System.Web.WebPages.xml
+E:\ERA_under_use_10.01.2018\mami\bin\System.Web.WebPages.Deployment.xml
+E:\ERA_under_use_10.01.2018\mami\bin\System.Web.WebPages.Razor.xml
+E:\ERA_under_use_10.01.2018\mami\bin\Antlr3.Runtime.pdb
+E:\ERA_under_use_10.01.2018\mami\bin\Newtonsoft.Json.xml
+E:\ERA_under_use_10.01.2018\mami\obj\Debug\mami.csprojResolveAssemblyReference.cache
+E:\ERA_under_use_10.01.2018\mami\obj\Debug\mami.dll
+E:\ERA_under_use_10.01.2018\mami\obj\Debug\mami.pdb
+E:\ERA_under_use_last_version\mami\bin\ApplicationInsights.config
+E:\ERA_under_use_last_version\mami\bin\roslyn\csc.exe
+E:\ERA_under_use_last_version\mami\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ERA_under_use_last_version\mami\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ERA_under_use_last_version\mami\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ERA_under_use_last_version\mami\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ERA_under_use_last_version\mami\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ERA_under_use_last_version\mami\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ERA_under_use_last_version\mami\bin\roslyn\System.Collections.Immutable.dll
+E:\ERA_under_use_last_version\mami\bin\roslyn\System.Reflection.Metadata.dll
+E:\ERA_under_use_last_version\mami\bin\roslyn\vbc.exe
+E:\ERA_under_use_last_version\mami\bin\roslyn\VBCSCompiler.exe
+E:\ERA_under_use_last_version\mami\bin\roslyn\VBCSCompiler.exe.config
+E:\ERA_under_use_last_version\mami\bin\mami.dll.config
+E:\ERA_under_use_last_version\mami\bin\mami.dll
+E:\ERA_under_use_last_version\mami\bin\mami.pdb
+E:\ERA_under_use_last_version\mami\bin\Antlr3.Runtime.dll
+E:\ERA_under_use_last_version\mami\bin\ClosedXML.dll
+E:\ERA_under_use_last_version\mami\bin\DocumentFormat.OpenXml.dll
+E:\ERA_under_use_last_version\mami\bin\EntityFramework.dll
+E:\ERA_under_use_last_version\mami\bin\EntityFramework.SqlServer.dll
+E:\ERA_under_use_last_version\mami\bin\ExcelNumberFormat.dll
+E:\ERA_under_use_last_version\mami\bin\FastMember.Signed.dll
+E:\ERA_under_use_last_version\mami\bin\Microsoft.AI.Agent.Intercept.dll
+E:\ERA_under_use_last_version\mami\bin\Microsoft.AI.DependencyCollector.dll
+E:\ERA_under_use_last_version\mami\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\ERA_under_use_last_version\mami\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\ERA_under_use_last_version\mami\bin\Microsoft.AI.Web.dll
+E:\ERA_under_use_last_version\mami\bin\Microsoft.AI.WindowsServer.dll
+E:\ERA_under_use_last_version\mami\bin\Microsoft.ApplicationInsights.dll
+E:\ERA_under_use_last_version\mami\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ERA_under_use_last_version\mami\bin\Microsoft.Web.Infrastructure.dll
+E:\ERA_under_use_last_version\mami\bin\Newtonsoft.Json.dll
+E:\ERA_under_use_last_version\mami\bin\System.IO.FileSystem.Primitives.dll
+E:\ERA_under_use_last_version\mami\bin\System.IO.Packaging.dll
+E:\ERA_under_use_last_version\mami\bin\System.Web.Helpers.dll
+E:\ERA_under_use_last_version\mami\bin\System.Web.Mvc.dll
+E:\ERA_under_use_last_version\mami\bin\System.Web.Optimization.dll
+E:\ERA_under_use_last_version\mami\bin\System.Web.Razor.dll
+E:\ERA_under_use_last_version\mami\bin\System.Web.WebPages.Deployment.dll
+E:\ERA_under_use_last_version\mami\bin\System.Web.WebPages.dll
+E:\ERA_under_use_last_version\mami\bin\System.Web.WebPages.Razor.dll
+E:\ERA_under_use_last_version\mami\bin\WebGrease.dll
+E:\ERA_under_use_last_version\mami\bin\ClosedXML.pdb
+E:\ERA_under_use_last_version\mami\bin\ClosedXML.xml
+E:\ERA_under_use_last_version\mami\bin\DocumentFormat.OpenXml.xml
+E:\ERA_under_use_last_version\mami\bin\EntityFramework.xml
+E:\ERA_under_use_last_version\mami\bin\EntityFramework.SqlServer.xml
+E:\ERA_under_use_last_version\mami\bin\ExcelNumberFormat.xml
+E:\ERA_under_use_last_version\mami\bin\Microsoft.AI.DependencyCollector.xml
+E:\ERA_under_use_last_version\mami\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\ERA_under_use_last_version\mami\bin\Microsoft.AI.Web.xml
+E:\ERA_under_use_last_version\mami\bin\Microsoft.AI.WindowsServer.xml
+E:\ERA_under_use_last_version\mami\bin\Microsoft.ApplicationInsights.xml
+E:\ERA_under_use_last_version\mami\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ERA_under_use_last_version\mami\bin\System.Web.Helpers.xml
+E:\ERA_under_use_last_version\mami\bin\System.Web.Mvc.xml
+E:\ERA_under_use_last_version\mami\bin\System.Web.Optimization.xml
+E:\ERA_under_use_last_version\mami\bin\System.Web.Razor.xml
+E:\ERA_under_use_last_version\mami\bin\System.Web.WebPages.xml
+E:\ERA_under_use_last_version\mami\bin\System.Web.WebPages.Deployment.xml
+E:\ERA_under_use_last_version\mami\bin\System.Web.WebPages.Razor.xml
+E:\ERA_under_use_last_version\mami\bin\Antlr3.Runtime.pdb
+E:\ERA_under_use_last_version\mami\bin\Newtonsoft.Json.xml
+E:\ERA_under_use_last_version\mami\obj\Debug\mami.csprojResolveAssemblyReference.cache
+E:\ERA_under_use_last_version\mami\obj\Debug\mami.dll
+E:\ERA_under_use_last_version\mami\obj\Debug\mami.pdb
+G:\ERA_under_use_last_version\mami\bin\ApplicationInsights.config
+G:\ERA_under_use_last_version\mami\bin\roslyn\csc.exe
+G:\ERA_under_use_last_version\mami\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\ERA_under_use_last_version\mami\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\ERA_under_use_last_version\mami\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\ERA_under_use_last_version\mami\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\ERA_under_use_last_version\mami\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\ERA_under_use_last_version\mami\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\ERA_under_use_last_version\mami\bin\roslyn\System.Collections.Immutable.dll
+G:\ERA_under_use_last_version\mami\bin\roslyn\System.Reflection.Metadata.dll
+G:\ERA_under_use_last_version\mami\bin\roslyn\vbc.exe
+G:\ERA_under_use_last_version\mami\bin\roslyn\VBCSCompiler.exe
+G:\ERA_under_use_last_version\mami\bin\roslyn\VBCSCompiler.exe.config
+G:\ERA_under_use_last_version\mami\bin\mami.dll.config
+G:\ERA_under_use_last_version\mami\bin\mami.dll
+G:\ERA_under_use_last_version\mami\bin\mami.pdb
+G:\ERA_under_use_last_version\mami\bin\Antlr3.Runtime.dll
+G:\ERA_under_use_last_version\mami\bin\ClosedXML.dll
+G:\ERA_under_use_last_version\mami\bin\DocumentFormat.OpenXml.dll
+G:\ERA_under_use_last_version\mami\bin\EntityFramework.dll
+G:\ERA_under_use_last_version\mami\bin\EntityFramework.SqlServer.dll
+G:\ERA_under_use_last_version\mami\bin\ExcelNumberFormat.dll
+G:\ERA_under_use_last_version\mami\bin\FastMember.Signed.dll
+G:\ERA_under_use_last_version\mami\bin\Microsoft.AI.Agent.Intercept.dll
+G:\ERA_under_use_last_version\mami\bin\Microsoft.AI.DependencyCollector.dll
+G:\ERA_under_use_last_version\mami\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\ERA_under_use_last_version\mami\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\ERA_under_use_last_version\mami\bin\Microsoft.AI.Web.dll
+G:\ERA_under_use_last_version\mami\bin\Microsoft.AI.WindowsServer.dll
+G:\ERA_under_use_last_version\mami\bin\Microsoft.ApplicationInsights.dll
+G:\ERA_under_use_last_version\mami\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\ERA_under_use_last_version\mami\bin\Microsoft.Web.Infrastructure.dll
+G:\ERA_under_use_last_version\mami\bin\Newtonsoft.Json.dll
+G:\ERA_under_use_last_version\mami\bin\System.IO.FileSystem.Primitives.dll
+G:\ERA_under_use_last_version\mami\bin\System.IO.Packaging.dll
+G:\ERA_under_use_last_version\mami\bin\System.Web.Helpers.dll
+G:\ERA_under_use_last_version\mami\bin\System.Web.Mvc.dll
+G:\ERA_under_use_last_version\mami\bin\System.Web.Optimization.dll
+G:\ERA_under_use_last_version\mami\bin\System.Web.Razor.dll
+G:\ERA_under_use_last_version\mami\bin\System.Web.WebPages.Deployment.dll
+G:\ERA_under_use_last_version\mami\bin\System.Web.WebPages.dll
+G:\ERA_under_use_last_version\mami\bin\System.Web.WebPages.Razor.dll
+G:\ERA_under_use_last_version\mami\bin\WebGrease.dll
+G:\ERA_under_use_last_version\mami\bin\ClosedXML.pdb
+G:\ERA_under_use_last_version\mami\bin\ClosedXML.xml
+G:\ERA_under_use_last_version\mami\bin\DocumentFormat.OpenXml.xml
+G:\ERA_under_use_last_version\mami\bin\EntityFramework.xml
+G:\ERA_under_use_last_version\mami\bin\EntityFramework.SqlServer.xml
+G:\ERA_under_use_last_version\mami\bin\ExcelNumberFormat.xml
+G:\ERA_under_use_last_version\mami\bin\Microsoft.AI.DependencyCollector.xml
+G:\ERA_under_use_last_version\mami\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\ERA_under_use_last_version\mami\bin\Microsoft.AI.Web.xml
+G:\ERA_under_use_last_version\mami\bin\Microsoft.AI.WindowsServer.xml
+G:\ERA_under_use_last_version\mami\bin\Microsoft.ApplicationInsights.xml
+G:\ERA_under_use_last_version\mami\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\ERA_under_use_last_version\mami\bin\System.Web.Helpers.xml
+G:\ERA_under_use_last_version\mami\bin\System.Web.Mvc.xml
+G:\ERA_under_use_last_version\mami\bin\System.Web.Optimization.xml
+G:\ERA_under_use_last_version\mami\bin\System.Web.Razor.xml
+G:\ERA_under_use_last_version\mami\bin\System.Web.WebPages.xml
+G:\ERA_under_use_last_version\mami\bin\System.Web.WebPages.Deployment.xml
+G:\ERA_under_use_last_version\mami\bin\System.Web.WebPages.Razor.xml
+G:\ERA_under_use_last_version\mami\bin\Antlr3.Runtime.pdb
+G:\ERA_under_use_last_version\mami\bin\Newtonsoft.Json.xml
+G:\ERA_under_use_last_version\mami\obj\Debug\mami.csprojResolveAssemblyReference.cache
+G:\ERA_under_use_last_version\mami\obj\Debug\mami.csproj.CoreCompileInputs.cache
+G:\ERA_under_use_last_version\mami\obj\Debug\mami.csproj.CopyComplete
+G:\ERA_under_use_last_version\mami\obj\Debug\mami.dll
+G:\ERA_under_use_last_version\mami\obj\Debug\mami.pdb
+E:\BACKUP\New folder\ERA_under_use_last_version\mami\bin\ApplicationInsights.config
+E:\BACKUP\New folder\ERA_under_use_last_version\mami\bin\roslyn\csc.exe
+E:\BACKUP\New folder\ERA_under_use_last_version\mami\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\BACKUP\New folder\ERA_under_use_last_version\mami\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\BACKUP\New folder\ERA_under_use_last_version\mami\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\BACKUP\New folder\ERA_under_use_last_version\mami\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\BACKUP\New folder\ERA_under_use_last_version\mami\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\BACKUP\New folder\ERA_under_use_last_version\mami\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\BACKUP\New folder\ERA_under_use_last_version\mami\bin\roslyn\System.Collections.Immutable.dll
+E:\BACKUP\New folder\ERA_under_use_last_version\mami\bin\roslyn\System.Reflection.Metadata.dll
+E:\BACKUP\New folder\ERA_under_use_last_version\mami\bin\roslyn\vbc.exe
+E:\BACKUP\New folder\ERA_under_use_last_version\mami\bin\roslyn\VBCSCompiler.exe
+E:\BACKUP\New folder\ERA_under_use_last_version\mami\bin\roslyn\VBCSCompiler.exe.config
+E:\BACKUP\New folder\ERA_under_use_last_version\mami\bin\mami.dll.config
+E:\BACKUP\New folder\ERA_under_use_last_version\mami\bin\mami.dll
+E:\BACKUP\New folder\ERA_under_use_last_version\mami\bin\mami.pdb
+E:\BACKUP\New folder\ERA_under_use_last_version\mami\bin\Antlr3.Runtime.dll
+E:\BACKUP\New folder\ERA_under_use_last_version\mami\bin\ClosedXML.dll
+E:\BACKUP\New folder\ERA_under_use_last_version\mami\bin\DocumentFormat.OpenXml.dll
+E:\BACKUP\New folder\ERA_under_use_last_version\mami\bin\EntityFramework.dll
+E:\BACKUP\New folder\ERA_under_use_last_version\mami\bin\EntityFramework.SqlServer.dll
+E:\BACKUP\New folder\ERA_under_use_last_version\mami\bin\ExcelNumberFormat.dll
+E:\BACKUP\New folder\ERA_under_use_last_version\mami\bin\FastMember.Signed.dll
+E:\BACKUP\New folder\ERA_under_use_last_version\mami\bin\Microsoft.AI.Agent.Intercept.dll
+E:\BACKUP\New folder\ERA_under_use_last_version\mami\bin\Microsoft.AI.DependencyCollector.dll
+E:\BACKUP\New folder\ERA_under_use_last_version\mami\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\BACKUP\New folder\ERA_under_use_last_version\mami\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\BACKUP\New folder\ERA_under_use_last_version\mami\bin\Microsoft.AI.Web.dll
+E:\BACKUP\New folder\ERA_under_use_last_version\mami\bin\Microsoft.AI.WindowsServer.dll
+E:\BACKUP\New folder\ERA_under_use_last_version\mami\bin\Microsoft.ApplicationInsights.dll
+E:\BACKUP\New folder\ERA_under_use_last_version\mami\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\BACKUP\New folder\ERA_under_use_last_version\mami\bin\Microsoft.Web.Infrastructure.dll
+E:\BACKUP\New folder\ERA_under_use_last_version\mami\bin\Newtonsoft.Json.dll
+E:\BACKUP\New folder\ERA_under_use_last_version\mami\bin\System.IO.FileSystem.Primitives.dll
+E:\BACKUP\New folder\ERA_under_use_last_version\mami\bin\System.IO.Packaging.dll
+E:\BACKUP\New folder\ERA_under_use_last_version\mami\bin\System.Web.Helpers.dll
+E:\BACKUP\New folder\ERA_under_use_last_version\mami\bin\System.Web.Mvc.dll
+E:\BACKUP\New folder\ERA_under_use_last_version\mami\bin\System.Web.Optimization.dll
+E:\BACKUP\New folder\ERA_under_use_last_version\mami\bin\System.Web.Razor.dll
+E:\BACKUP\New folder\ERA_under_use_last_version\mami\bin\System.Web.WebPages.Deployment.dll
+E:\BACKUP\New folder\ERA_under_use_last_version\mami\bin\System.Web.WebPages.dll
+E:\BACKUP\New folder\ERA_under_use_last_version\mami\bin\System.Web.WebPages.Razor.dll
+E:\BACKUP\New folder\ERA_under_use_last_version\mami\bin\WebGrease.dll
+E:\BACKUP\New folder\ERA_under_use_last_version\mami\bin\ClosedXML.pdb
+E:\BACKUP\New folder\ERA_under_use_last_version\mami\bin\ClosedXML.xml
+E:\BACKUP\New folder\ERA_under_use_last_version\mami\bin\DocumentFormat.OpenXml.xml
+E:\BACKUP\New folder\ERA_under_use_last_version\mami\bin\EntityFramework.xml
+E:\BACKUP\New folder\ERA_under_use_last_version\mami\bin\EntityFramework.SqlServer.xml
+E:\BACKUP\New folder\ERA_under_use_last_version\mami\bin\ExcelNumberFormat.xml
+E:\BACKUP\New folder\ERA_under_use_last_version\mami\bin\Microsoft.AI.DependencyCollector.xml
+E:\BACKUP\New folder\ERA_under_use_last_version\mami\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\BACKUP\New folder\ERA_under_use_last_version\mami\bin\Microsoft.AI.Web.xml
+E:\BACKUP\New folder\ERA_under_use_last_version\mami\bin\Microsoft.AI.WindowsServer.xml
+E:\BACKUP\New folder\ERA_under_use_last_version\mami\bin\Microsoft.ApplicationInsights.xml
+E:\BACKUP\New folder\ERA_under_use_last_version\mami\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\BACKUP\New folder\ERA_under_use_last_version\mami\bin\System.Web.Helpers.xml
+E:\BACKUP\New folder\ERA_under_use_last_version\mami\bin\System.Web.Mvc.xml
+E:\BACKUP\New folder\ERA_under_use_last_version\mami\bin\System.Web.Optimization.xml
+E:\BACKUP\New folder\ERA_under_use_last_version\mami\bin\System.Web.Razor.xml
+E:\BACKUP\New folder\ERA_under_use_last_version\mami\bin\System.Web.WebPages.xml
+E:\BACKUP\New folder\ERA_under_use_last_version\mami\bin\System.Web.WebPages.Deployment.xml
+E:\BACKUP\New folder\ERA_under_use_last_version\mami\bin\System.Web.WebPages.Razor.xml
+E:\BACKUP\New folder\ERA_under_use_last_version\mami\bin\Antlr3.Runtime.pdb
+E:\BACKUP\New folder\ERA_under_use_last_version\mami\bin\Newtonsoft.Json.xml
+E:\BACKUP\New folder\ERA_under_use_last_version\mami\obj\Debug\mami.csprojResolveAssemblyReference.cache
+E:\BACKUP\New folder\ERA_under_use_last_version\mami\obj\Debug\mami.dll
+E:\BACKUP\New folder\ERA_under_use_last_version\mami\obj\Debug\mami.pdb
+D:\MRS_app and MAMI\ERA_under_use_last_version\mami\bin\ApplicationInsights.config
+D:\MRS_app and MAMI\ERA_under_use_last_version\mami\bin\roslyn\csc.exe
+D:\MRS_app and MAMI\ERA_under_use_last_version\mami\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MRS_app and MAMI\ERA_under_use_last_version\mami\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MRS_app and MAMI\ERA_under_use_last_version\mami\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MRS_app and MAMI\ERA_under_use_last_version\mami\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MRS_app and MAMI\ERA_under_use_last_version\mami\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MRS_app and MAMI\ERA_under_use_last_version\mami\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MRS_app and MAMI\ERA_under_use_last_version\mami\bin\roslyn\System.Collections.Immutable.dll
+D:\MRS_app and MAMI\ERA_under_use_last_version\mami\bin\roslyn\System.Reflection.Metadata.dll
+D:\MRS_app and MAMI\ERA_under_use_last_version\mami\bin\roslyn\vbc.exe
+D:\MRS_app and MAMI\ERA_under_use_last_version\mami\bin\roslyn\VBCSCompiler.exe
+D:\MRS_app and MAMI\ERA_under_use_last_version\mami\bin\roslyn\VBCSCompiler.exe.config
+D:\MRS_app and MAMI\ERA_under_use_last_version\mami\bin\mami.dll.config
+D:\MRS_app and MAMI\ERA_under_use_last_version\mami\bin\mami.dll
+D:\MRS_app and MAMI\ERA_under_use_last_version\mami\bin\mami.pdb
+D:\MRS_app and MAMI\ERA_under_use_last_version\mami\bin\Antlr3.Runtime.dll
+D:\MRS_app and MAMI\ERA_under_use_last_version\mami\bin\ClosedXML.dll
+D:\MRS_app and MAMI\ERA_under_use_last_version\mami\bin\DocumentFormat.OpenXml.dll
+D:\MRS_app and MAMI\ERA_under_use_last_version\mami\bin\EntityFramework.dll
+D:\MRS_app and MAMI\ERA_under_use_last_version\mami\bin\EntityFramework.SqlServer.dll
+D:\MRS_app and MAMI\ERA_under_use_last_version\mami\bin\ExcelNumberFormat.dll
+D:\MRS_app and MAMI\ERA_under_use_last_version\mami\bin\FastMember.Signed.dll
+D:\MRS_app and MAMI\ERA_under_use_last_version\mami\bin\Microsoft.AI.Agent.Intercept.dll
+D:\MRS_app and MAMI\ERA_under_use_last_version\mami\bin\Microsoft.AI.DependencyCollector.dll
+D:\MRS_app and MAMI\ERA_under_use_last_version\mami\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\MRS_app and MAMI\ERA_under_use_last_version\mami\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\MRS_app and MAMI\ERA_under_use_last_version\mami\bin\Microsoft.AI.Web.dll
+D:\MRS_app and MAMI\ERA_under_use_last_version\mami\bin\Microsoft.AI.WindowsServer.dll
+D:\MRS_app and MAMI\ERA_under_use_last_version\mami\bin\Microsoft.ApplicationInsights.dll
+D:\MRS_app and MAMI\ERA_under_use_last_version\mami\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MRS_app and MAMI\ERA_under_use_last_version\mami\bin\Microsoft.Web.Infrastructure.dll
+D:\MRS_app and MAMI\ERA_under_use_last_version\mami\bin\Newtonsoft.Json.dll
+D:\MRS_app and MAMI\ERA_under_use_last_version\mami\bin\System.IO.FileSystem.Primitives.dll
+D:\MRS_app and MAMI\ERA_under_use_last_version\mami\bin\System.IO.Packaging.dll
+D:\MRS_app and MAMI\ERA_under_use_last_version\mami\bin\System.Web.Helpers.dll
+D:\MRS_app and MAMI\ERA_under_use_last_version\mami\bin\System.Web.Mvc.dll
+D:\MRS_app and MAMI\ERA_under_use_last_version\mami\bin\System.Web.Optimization.dll
+D:\MRS_app and MAMI\ERA_under_use_last_version\mami\bin\System.Web.Razor.dll
+D:\MRS_app and MAMI\ERA_under_use_last_version\mami\bin\System.Web.WebPages.Deployment.dll
+D:\MRS_app and MAMI\ERA_under_use_last_version\mami\bin\System.Web.WebPages.dll
+D:\MRS_app and MAMI\ERA_under_use_last_version\mami\bin\System.Web.WebPages.Razor.dll
+D:\MRS_app and MAMI\ERA_under_use_last_version\mami\bin\WebGrease.dll
+D:\MRS_app and MAMI\ERA_under_use_last_version\mami\bin\ClosedXML.pdb
+D:\MRS_app and MAMI\ERA_under_use_last_version\mami\bin\ClosedXML.xml
+D:\MRS_app and MAMI\ERA_under_use_last_version\mami\bin\DocumentFormat.OpenXml.xml
+D:\MRS_app and MAMI\ERA_under_use_last_version\mami\bin\EntityFramework.xml
+D:\MRS_app and MAMI\ERA_under_use_last_version\mami\bin\EntityFramework.SqlServer.xml
+D:\MRS_app and MAMI\ERA_under_use_last_version\mami\bin\ExcelNumberFormat.xml
+D:\MRS_app and MAMI\ERA_under_use_last_version\mami\bin\Microsoft.AI.DependencyCollector.xml
+D:\MRS_app and MAMI\ERA_under_use_last_version\mami\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\MRS_app and MAMI\ERA_under_use_last_version\mami\bin\Microsoft.AI.Web.xml
+D:\MRS_app and MAMI\ERA_under_use_last_version\mami\bin\Microsoft.AI.WindowsServer.xml
+D:\MRS_app and MAMI\ERA_under_use_last_version\mami\bin\Microsoft.ApplicationInsights.xml
+D:\MRS_app and MAMI\ERA_under_use_last_version\mami\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MRS_app and MAMI\ERA_under_use_last_version\mami\bin\System.Web.Helpers.xml
+D:\MRS_app and MAMI\ERA_under_use_last_version\mami\bin\System.Web.Mvc.xml
+D:\MRS_app and MAMI\ERA_under_use_last_version\mami\bin\System.Web.Optimization.xml
+D:\MRS_app and MAMI\ERA_under_use_last_version\mami\bin\System.Web.Razor.xml
+D:\MRS_app and MAMI\ERA_under_use_last_version\mami\bin\System.Web.WebPages.xml
+D:\MRS_app and MAMI\ERA_under_use_last_version\mami\bin\System.Web.WebPages.Deployment.xml
+D:\MRS_app and MAMI\ERA_under_use_last_version\mami\bin\System.Web.WebPages.Razor.xml
+D:\MRS_app and MAMI\ERA_under_use_last_version\mami\bin\Antlr3.Runtime.pdb
+D:\MRS_app and MAMI\ERA_under_use_last_version\mami\bin\Newtonsoft.Json.xml
+D:\MRS_app and MAMI\ERA_under_use_last_version\mami\obj\Debug\mami.csprojResolveAssemblyReference.cache
+D:\MRS_app and MAMI\ERA_under_use_last_version\mami\obj\Debug\mami.dll
+D:\MRS_app and MAMI\ERA_under_use_last_version\mami\obj\Debug\mami.pdb

@@ -1,0 +1,10 @@
+C:\inetpub\wwwroot\mami\Domain\bin\Debug\Domain.dll.config
+C:\inetpub\wwwroot\mami\Domain\bin\Debug\Domain.dll
+C:\inetpub\wwwroot\mami\Domain\bin\Debug\Domain.pdb
+C:\inetpub\wwwroot\mami\Domain\bin\Debug\EntityFramework.dll
+C:\inetpub\wwwroot\mami\Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\inetpub\wwwroot\mami\Domain\bin\Debug\EntityFramework.xml
+C:\inetpub\wwwroot\mami\Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\inetpub\wwwroot\mami\Domain\obj\Debug\Domain.dll
+C:\inetpub\wwwroot\mami\Domain\obj\Debug\Domain.pdb
+C:\inetpub\wwwroot\mami\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache

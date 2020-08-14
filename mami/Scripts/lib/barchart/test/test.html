@@ -1,0 +1,136 @@
+<!doctype html>
+<html>
+<head>
+	<title>jQuery Table Barchart Plugin Demo</title>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+	<script type="text/javascript" src="../TableBarChart.js"></script>
+	<link rel="stylesheet" href="../TableBarChart.css" />
+	<style type="text/css">
+		table {
+			border-collapse: collapse;
+		}
+		caption {
+			background: #D3D3D3;
+		}
+		th {
+			background: #A7C942;
+			border: 1px solid #98BF21;
+			color: #ffffff;
+			font-weight: bold;
+			text-align: left;
+		}
+		td {
+			border: 1px solid #98BF21;
+			text-align: left;
+			font-weight: normal;
+			color: #000000;
+		}
+		tr:nth-child(odd) {
+			background: #ffffff;
+		}
+		tbody tr:nth-child(odd) th {
+			background: #ffffff;
+			color: #000000;
+		}
+		tr:nth-child(even) {
+			background: #EAF2D3;
+		}
+		tbody tr:nth-child(even) th {
+			background: #EAF2D3;
+			color: #000000;
+		}
+		#target {
+			width: 600px;
+			height: 400px;
+		}
+	</style>
+    <link href="http://www.jqueryscript.net/css/jquerysctipttop.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<div id="jquery-script-menu">
+<div class="jquery-script-center">
+<ul>
+<li><a href="http://www.jqueryscript.net/chart-graph/jQuery-Plugin-To-Render-A-Bar-Chart-From-A-Table-Table-Barchart.html">Download This Plugin</a></li>
+<li><a href="http://www.jqueryscript.net/">Back To jQueryScript.Net</a></li>
+</ul>
+<div class="jquery-script-ads"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-2783044520727903";
+/* jQuery_demo */
+google_ad_slot = "2780937993";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+<div class="jquery-script-clear"></div>
+</div>
+</div>
+<h1 style="margin-top:150px;">jQuery Table Barchart Plugin Demo</h1>
+	<table id="source">
+	  <caption>Locating Element By Id</caption>
+		<thead>
+			<tr>
+				<th></th>
+				<th>Run 1</th>
+				<th>Run 2</th>
+				<th>Run 3</th>	
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<th>Chrome</th>
+				<td>1595</td>
+				<td>1578</td>
+				<td>1584</td>
+			</tr>
+			<tr>
+				<th>Firefox</th>
+				<td>1470</td>
+				<td>1430</td>
+				<td>1500</td>
+			</tr>
+			<tr>
+				<th>Internet Explorer</th>
+				<td>2750</td>
+				<td>3140</td>
+				<td>3162</td>
+			</tr>
+			<tr>
+				<th>Safari</th>
+				<td>170</td>
+				<td>100</td>
+				<td>90</td>
+			</tr>
+		</tbody>
+	</table><br>
+<br>
+<br>
+<br>
+
+<div id="target">
+	</div>
+
+<script type="text/javascript">
+	$(function() {
+		$('#source').tableBarChart('#target', '', false);
+	});
+</script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-36251023-1']);
+  _gaq.push(['_setDomainName', 'jqueryscript.net']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+</body>
+</html>
